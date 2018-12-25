@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="toolsqa Suite" duration-ms="31475" started-at="2017-04-29T17:06:33Z" finished-at="2017-04-29T17:07:05Z">
+    <groups>
+    </groups>
+    <test name="Switch Window Test" duration-ms="31475" started-at="2017-04-29T17:06:33Z" finished-at="2017-04-29T17:07:05Z">
+      <class name="com.demoqa.testcases.DraggablePageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.demoqa.testcases.DraggablePageTestCases@343f4d3d]" name="initialSetUp" is-config="true" duration-ms="23553" started-at="2017-04-29T22:36:33Z" finished-at="2017-04-29T22:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="randomDrag()[pri:0, instance:com.demoqa.testcases.DraggablePageTestCases@343f4d3d]" name="randomDrag" duration-ms="7903" started-at="2017-04-29T22:36:57Z" finished-at="2017-04-29T22:37:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomDrag -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.demoqa.testcases.DraggablePageTestCases@343f4d3d]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-04-29T22:37:05Z" finished-at="2017-04-29T22:37:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.demoqa.testcases.DraggablePageTestCases -->
+    </test> <!-- Switch Window Test -->
+  </suite> <!-- toolsqa Suite -->
+</testng-results>

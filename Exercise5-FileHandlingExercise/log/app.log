@@ -1,0 +1,83 @@
+2017-04-27 08:22:51 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-27 08:22:51 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-27 08:22:59 INFO  Keywords:78 - Starting Firefox browser
+2017-04-27 08:22:59 INFO  Keywords:114 - Inside navigateTo Method
+2017-04-27 08:23:00 INFO  Keywords:122 - Opening URL: https://www.freecharge.in/
+2017-04-27 08:23:05 INFO  HomePageTestCases:48 - Coppying plans to excel initiated
+2017-04-27 08:23:05 INFO  Home:56 - Entering Phone Number for Recharge
+2017-04-27 08:23:05 INFO  Keywords:182 - Entering text is 9891234567
+2017-04-27 08:23:07 INFO  Home:78 - Navigating to recommended plans
+2017-04-27 08:23:09 INFO  Home:82 - Navigated to Recommended Plans
+2017-04-27 08:23:09 INFO  Home:96 - Reading and copying plans to excel sheet
+2017-04-27 08:23:09 INFO  Keywords:253 - Fetching data to list
+2017-04-27 08:23:11 INFO  Keywords:266 - Plan data added to the lists
+2017-04-27 08:23:11 INFO  Keywords:290 - Starting writing data to Excel
+2017-04-27 08:23:12 INFO  Keywords:293 - Creating workbook
+2017-04-27 08:23:12 INFO  Keywords:304 - Adding headers to the Excel Sheet
+2017-04-27 08:23:12 INFO  Keywords:325 - Creating Excel file :Recommended Plans.xlsx
+2017-04-27 08:23:12 INFO  Keywords:332 - Data added to the Excel Sheet
+2017-04-27 08:23:12 INFO  Home:115 - Filling FullTalkTime Cells with blue color
+2017-04-27 08:23:12 INFO  Keywords:357 - Inside Change cell color keyword
+2017-04-27 08:23:12 INFO  Keywords:358 - Locating the file: Recommended Plans.xlsx
+2017-04-27 08:23:13 INFO  Keywords:371 - Locating cells which contains Full Talktime
+2017-04-27 08:23:13 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 200
+2017-04-27 08:23:13 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 250
+2017-04-27 08:23:13 INFO  HomePageTestCases:60 - Closing the browser
+2017-04-27 08:23:13 INFO  Keywords:134 - Closing the browser
+2017-04-27 09:40:46 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-27 09:40:46 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-27 09:41:54 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-27 09:41:54 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-27 09:42:03 INFO  Keywords:78 - Starting Firefox browser
+2017-04-27 09:42:03 INFO  Keywords:114 - Inside navigateTo Method
+2017-04-27 09:42:04 INFO  Keywords:122 - Opening URL: https://www.freecharge.in/
+2017-04-27 09:42:10 INFO  HomePageTestCases:48 - Coppying plans to excel initiated
+2017-04-27 09:42:10 INFO  Home:56 - Entering Phone Number for Recharge
+2017-04-27 09:42:10 INFO  Keywords:182 - Entering text is 9891234567
+2017-04-27 09:42:12 INFO  Home:78 - Navigating to recommended plans
+2017-04-27 09:42:14 INFO  Home:82 - Navigated to Recommended Plans
+2017-04-27 09:42:14 INFO  Home:96 - Reading and copying plans to excel sheet
+2017-04-27 09:42:14 INFO  Keywords:253 - Fetching data to list
+2017-04-27 09:42:16 INFO  Keywords:266 - Plan data added to the lists
+2017-04-27 09:42:16 INFO  Keywords:290 - Starting writing data to Excel
+2017-04-27 09:42:17 INFO  Keywords:293 - Creating workbook
+2017-04-27 09:42:17 INFO  Keywords:304 - Adding headers to the Excel Sheet
+2017-04-27 09:42:17 INFO  Keywords:325 - Creating Excel file :Recommended Plans.xlsx
+2017-04-27 09:42:17 INFO  Keywords:332 - Data added to the Excel Sheet
+2017-04-27 09:42:17 INFO  Home:115 - Filling FullTalkTime Cells with blue color
+2017-04-27 09:42:17 INFO  Keywords:357 - Inside Change cell color keyword
+2017-04-27 09:42:17 INFO  Keywords:358 - Locating the file: Recommended Plans.xlsx
+2017-04-27 09:42:17 INFO  Keywords:371 - Locating cells which contains Full Talktime
+2017-04-27 09:42:17 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 200
+2017-04-27 09:42:17 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 250
+2017-04-27 09:42:17 INFO  HomePageTestCases:60 - Closing the browser
+2017-04-27 09:42:17 INFO  Keywords:134 - Closing the browser
+2017-04-29 18:21:25 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-29 18:21:25 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-29 18:21:33 INFO  Keywords:78 - Starting Firefox browser
+2017-04-29 18:21:33 INFO  Keywords:114 - Inside navigateTo Method
+2017-04-29 18:21:33 INFO  Keywords:122 - Opening URL: https://www.freecharge.in/
+2017-04-29 18:21:40 INFO  HomePageTestCases:48 - Coppying plans to excel initiated
+2017-04-29 18:21:40 INFO  Home:56 - Entering Phone Number for Recharge
+2017-04-29 18:21:40 INFO  Keywords:182 - Entering text is 9891234567
+2017-04-29 18:21:41 INFO  Home:78 - Navigating to recommended plans
+2017-04-29 18:21:43 INFO  Home:82 - Navigated to Recommended Plans
+2017-04-29 18:21:43 INFO  Home:96 - Reading and copying plans to excel sheet
+2017-04-29 18:21:43 INFO  Keywords:253 - Fetching data to list
+2017-04-29 18:21:45 INFO  Keywords:266 - Plan data added to the lists
+2017-04-29 18:21:45 INFO  Keywords:290 - Starting writing data to Excel
+2017-04-29 18:21:46 INFO  Keywords:293 - Creating workbook
+2017-04-29 18:21:46 INFO  Keywords:304 - Adding headers to the Excel Sheet
+2017-04-29 18:21:46 INFO  Keywords:325 - Creating Excel file :Recommended Plans.xlsx
+2017-04-29 18:21:46 INFO  Keywords:332 - Data added to the Excel Sheet
+2017-04-29 18:21:46 INFO  Home:115 - Filling FullTalkTime Cells with blue color
+2017-04-29 18:21:46 INFO  Keywords:357 - Inside Change cell color keyword
+2017-04-29 18:21:46 INFO  Keywords:358 - Locating the file: Recommended Plans.xlsx
+2017-04-29 18:21:46 INFO  Keywords:371 - Locating cells which contains Full Talktime
+2017-04-29 18:21:46 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 25 - 1 Local Onnet SMS free From 23:00 Hrs Till 08:00 Hrs. - Free SMS valid for 1 day(s)
+2017-04-29 18:21:46 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 65 - 1 Local Onnet SMS free From 23:00 Hrs Till 08:00 Hrs. - Free SMS valid for 1 day(s)
+2017-04-29 18:21:46 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 138 - 5 Local Onnet min free From 00:00 Hrs Till 06:00 Hrs. - Free min valid for 5 day(s)
+2017-04-29 18:21:46 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 200
+2017-04-29 18:21:46 INFO  Keywords:377 - Full Talktime plan is: Full Talktime Rs. 250
+2017-04-29 18:21:46 INFO  HomePageTestCases:60 - Closing the browser
+2017-04-29 18:21:46 INFO  Keywords:134 - Closing the browser

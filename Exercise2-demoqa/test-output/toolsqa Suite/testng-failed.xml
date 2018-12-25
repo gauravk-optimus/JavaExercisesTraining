@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [toolsqa Suite]">
+  <test name="Switch Window Test(failed)">
+    <classes>
+      <class name="com.demoqa.testcases.DraggablePageTestCases">
+        <methods>
+          <include name="randomDrag"/>
+          <include name="initialSetUp"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.demoqa.testcases.DraggablePageTestCases -->
+    </classes>
+  </test> <!-- Switch Window Test(failed) -->
+</suite> <!-- Failed suite [toolsqa Suite] -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Optimus Suite]">
+  <test name="Profile Test(failed)">
+    <classes>
+      <class name="com.Optimus.testcases.ContactUsPageTestCases">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="rechargeInitiate" invocation-numbers="0"/>
+          <include name="initialSetUp"/>
+        </methods>
+      </class> <!-- com.Optimus.testcases.ContactUsPageTestCases -->
+    </classes>
+  </test> <!-- Profile Test(failed) -->
+</suite> <!-- Failed suite [Optimus Suite] -->

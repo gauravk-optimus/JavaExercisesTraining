@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Optimus Suite" duration-ms="53008" started-at="2017-04-29T14:35:58Z" finished-at="2017-04-29T14:36:51Z">
+    <groups>
+    </groups>
+    <test name="Profile Test" duration-ms="53008" started-at="2017-04-29T14:35:58Z" finished-at="2017-04-29T14:36:51Z">
+      <class name="com.Optimus.testcases.ContactUsPageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="initialSetUp" is-config="true" duration-ms="44444" started-at="2017-04-29T20:05:58Z" finished-at="2017-04-29T20:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="rechargeInitiate(org.testng.ITestContext)[pri:1, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="rechargeInitiate" duration-ms="3114" started-at="2017-04-29T20:06:43Z" description="User is able initiate re-charge" finished-at="2017-04-29T20:06:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@434a63ab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rechargeInitiate -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="closeBrowser" is-config="true" duration-ms="5424" started-at="2017-04-29T20:06:46Z" finished-at="2017-04-29T20:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="afterSuite" is-config="true" duration-ms="3" started-at="2017-04-29T20:06:51Z" finished-at="2017-04-29T20:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Optimus.testcases.ContactUsPageTestCases -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- Optimus Suite -->
+</testng-results>

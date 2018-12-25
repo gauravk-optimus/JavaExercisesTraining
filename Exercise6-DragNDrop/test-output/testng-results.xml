@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ActionClassDropdown Suite" duration-ms="18834" started-at="2017-04-26T03:36:18Z" finished-at="2017-04-26T03:36:37Z">
+    <groups>
+    </groups>
+    <test name="Profile Test" duration-ms="18834" started-at="2017-04-26T03:36:18Z" finished-at="2017-04-26T03:36:37Z">
+      <class name="com.DragNDrop.testcases.DroppablePageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.DragNDrop.testcases.DroppablePageTestCases@4883b407]" name="initialSetUp" is-config="true" duration-ms="14860" started-at="2017-04-26T09:06:18Z" finished-at="2017-04-26T09:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="rechargeInitiate(org.testng.ITestContext)[pri:1, instance:com.DragNDrop.testcases.DroppablePageTestCases@4883b407]" name="rechargeInitiate" duration-ms="3352" started-at="2017-04-26T09:06:33Z" description="User is drag n drop" finished-at="2017-04-26T09:06:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@434a63ab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rechargeInitiate -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.DragNDrop.testcases.DroppablePageTestCases@4883b407]" name="closeBrowser" is-config="true" duration-ms="604" started-at="2017-04-26T09:06:37Z" finished-at="2017-04-26T09:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.DragNDrop.testcases.DroppablePageTestCases@4883b407]" name="afterSuite" is-config="true" duration-ms="12" started-at="2017-04-26T09:06:37Z" finished-at="2017-04-26T09:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.DragNDrop.testcases.DroppablePageTestCases -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- ActionClassDropdown Suite -->
+</testng-results>

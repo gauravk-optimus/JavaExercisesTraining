@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Random Numbers Suite">
+<test name="Profile Test">
+		<classes>
+			<class name="com.Freecharge.testcases.HomePageTestCases">
+			</class>
+		</classes>
+</test>
+</suite>

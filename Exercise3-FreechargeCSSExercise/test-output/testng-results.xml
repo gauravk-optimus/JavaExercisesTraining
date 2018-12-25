@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Freecharge Suite" duration-ms="123660" started-at="2017-04-30T04:41:44Z" finished-at="2017-04-30T04:43:48Z">
+    <groups>
+    </groups>
+    <test name="Profile Test" duration-ms="123660" started-at="2017-04-30T04:41:44Z" finished-at="2017-04-30T04:43:48Z">
+      <class name="com.Freecharge.testcases.HomePageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="initialSetUp" is-config="true" duration-ms="20389" started-at="2017-04-30T10:11:44Z" finished-at="2017-04-30T10:12:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="countNoOfIsdPlans()[pri:1, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="countNoOfIsdPlans" duration-ms="6873" started-at="2017-04-30T10:12:05Z" description="Counting ISD plan in SPL/Rate Cutters tab" finished-at="2017-04-30T10:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countNoOfIsdPlans -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="closeBrowser" is-config="true" duration-ms="1296" started-at="2017-04-30T10:12:12Z" finished-at="2017-04-30T10:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="initialSetUp" is-config="true" duration-ms="15322" started-at="2017-04-30T10:12:13Z" finished-at="2017-04-30T10:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="findLeastValidityPlan()[pri:1, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="findLeastValidityPlan" duration-ms="6171" started-at="2017-04-30T10:12:28Z" description="Verifying least validity plan" finished-at="2017-04-30T10:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findLeastValidityPlan -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="closeBrowser" is-config="true" duration-ms="1214" started-at="2017-04-30T10:12:34Z" finished-at="2017-04-30T10:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="initialSetUp" is-config="true" duration-ms="15672" started-at="2017-04-30T10:12:36Z" finished-at="2017-04-30T10:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="FAIL" signature="getEffectivePlan(org.testng.ITestContext)[pri:1, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="getEffectivePlan" duration-ms="11002" started-at="2017-04-30T10:12:51Z" description="User is able find effective plan" finished-at="2017-04-30T10:13:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5276d6ee]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.fail(Assert.java:101)
+	at com.Freecharge.pages.Home.findPlan(Home.java:83)
+	at com.Freecharge.testcases.HomePageTestCases.getEffectivePlan(HomePageTestCases.java:67)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEffectivePlan -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="closeBrowser" is-config="true" duration-ms="625" started-at="2017-04-30T10:13:02Z" finished-at="2017-04-30T10:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="initialSetUp" is-config="true" duration-ms="13703" started-at="2017-04-30T10:13:03Z" finished-at="2017-04-30T10:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="getPlanCount()[pri:1, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="getPlanCount" duration-ms="6243" started-at="2017-04-30T10:13:17Z" description="Counting number of Recommended plans" finished-at="2017-04-30T10:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPlanCount -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="closeBrowser" is-config="true" duration-ms="622" started-at="2017-04-30T10:13:23Z" finished-at="2017-04-30T10:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="initialSetUp" is-config="true" duration-ms="15794" started-at="2017-04-30T10:13:24Z" finished-at="2017-04-30T10:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="verifyNonFTTPlan(org.testng.ITestContext)[pri:1, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="verifyNonFTTPlan" duration-ms="6434" started-at="2017-04-30T10:13:39Z" description="Verify non FTT plan does not exist in FTT tab" finished-at="2017-04-30T10:13:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5276d6ee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNonFTTPlan -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="closeBrowser" is-config="true" duration-ms="2267" started-at="2017-04-30T10:13:46Z" finished-at="2017-04-30T10:13:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@5442a311]" name="afterSuite" is-config="true" duration-ms="11" started-at="2017-04-30T10:13:48Z" finished-at="2017-04-30T10:13:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Freecharge.testcases.HomePageTestCases -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- Freecharge Suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [JS Suite]">
+  <test name="JS Test(failed)">
+    <classes>
+      <class name="com.Optimus.testcases.ContactUsPageTestCases">
+        <methods>
+          <include name="initialSetUp"/>
+          <include name="contact"/>
+        </methods>
+      </class> <!-- com.Optimus.testcases.ContactUsPageTestCases -->
+    </classes>
+  </test> <!-- JS Test(failed) -->
+</suite> <!-- Failed suite [JS Suite] -->

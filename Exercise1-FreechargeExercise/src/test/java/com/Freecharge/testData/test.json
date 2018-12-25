@@ -1,0 +1,20 @@
+{	
+	"brands":
+	[ 
+		"MOBILE RECHARGE", "Airtel",
+		"Aircel", "Vodafone", "BSNL", "Tata Docomo GSM", "Idea",
+		"indicom Walky", "MTNL Delhi", "Reliance CDMA", "Reliance GSM",
+		"Tata Indicom", "Telenor", "MTS", "Videocon", "Virgin CDMA",
+		"Virgin GSM", "Tata Docomo CDMA", "DATA CARD RECHARGE",
+		"Tata Photon", "MTS MBlaze", "MTS MBrowse", "Airtel", "BSNL",
+		"Aircel", "MTNL Delhi", "Vodafone", "Idea", "MTNL Mumbai",
+		"Tata Photon Whiz", "DTH(TV) RECHARGE", "Airtel Digital TV",
+		"Reliance Digital TV", "Dish TV", "Tata Sky", "Sun Direct",
+		"Videocon D2H", "POSTPAID", "Airtel Bill Payment",
+		"BSNL Bill Payment", "Tata Docomo GSM Bill Payment",
+		"Tata Docomo CDMA Bill Payment", "Idea Bill Payment",
+		"Vodafone Bill Payment", "Reliance GSM Bill", "Reliance CDMA Bill",
+		"About Us", "Support", "Contact Us", "Sitemap", "Geekery", "T & C",
+		"Blog", "Android App", "Windows", "Mobile Site", "IOS"
+	]
+}

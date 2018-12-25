@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Random Numbers Suite" duration-ms="21954" started-at="2017-04-26T02:50:40Z" finished-at="2017-04-26T02:51:02Z">
+    <groups>
+    </groups>
+    <test name="Profile Test" duration-ms="21954" started-at="2017-04-26T02:50:40Z" finished-at="2017-04-26T02:51:02Z">
+      <class name="com.Freecharge.testcases.HomePageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@53b32d7]" name="initialSetUp" is-config="true" duration-ms="13451" started-at="2017-04-26T08:20:40Z" finished-at="2017-04-26T08:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="randomRechargeInitiate(org.testng.ITestContext)[pri:1, instance:com.Freecharge.testcases.HomePageTestCases@53b32d7]" name="randomRechargeInitiate" duration-ms="7558" started-at="2017-04-26T08:20:54Z" description="User is able initiate re-charge" finished-at="2017-04-26T08:21:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@434a63ab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomRechargeInitiate -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@53b32d7]" name="closeBrowser" is-config="true" duration-ms="925" started-at="2017-04-26T08:21:01Z" finished-at="2017-04-26T08:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@53b32d7]" name="afterSuite" is-config="true" duration-ms="16" started-at="2017-04-26T08:21:02Z" finished-at="2017-04-26T08:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Freecharge.testcases.HomePageTestCases -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- Random Numbers Suite -->
+</testng-results>

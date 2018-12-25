@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Random Numbers Suite]">
+  <test name="Profile Test(failed)">
+    <classes>
+      <class name="com.Freecharge.testcases.HomePageTestCases">
+        <methods>
+          <include name="rechargeInitiate" invocation-numbers="0"/>
+          <include name="initialSetUp"/>
+          <include name="afterSuite"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.Freecharge.testcases.HomePageTestCases -->
+    </classes>
+  </test> <!-- Profile Test(failed) -->
+</suite> <!-- Failed suite [Random Numbers Suite] -->

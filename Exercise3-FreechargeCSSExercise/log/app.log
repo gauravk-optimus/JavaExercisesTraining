@@ -1,0 +1,87 @@
+2017-04-30 10:02:25 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-30 10:02:25 INFO  Keywords:67 - Inside startBrowser Method
+2017-04-30 10:02:32 INFO  Keywords:73 - Starting Firefox browser
+2017-04-30 10:02:32 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-30 10:02:32 INFO  Keywords:116 - Opening URL: https://www.freecharge.in/
+2017-04-30 10:11:44 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-30 10:11:44 INFO  Keywords:67 - Inside startBrowser Method
+2017-04-30 10:11:57 INFO  Keywords:73 - Starting Firefox browser
+2017-04-30 10:11:57 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-30 10:11:59 INFO  Keywords:116 - Opening URL: https://www.freecharge.in/
+2017-04-30 10:12:05 INFO  HomePageTestCases:92 - Counting ISD plan
+2017-04-30 10:12:05 INFO  Home:92 - Entering Phone Number for Recharge
+2017-04-30 10:12:05 INFO  Keywords:245 - Entering text is 9818012345
+2017-04-30 10:12:07 INFO  Home:175 - Clicking on proceed button
+2017-04-30 10:12:09 INFO  Home:125 - Counting ISD plans
+2017-04-30 10:12:10 INFO  Keywords:289 - Count the elements
+2017-04-30 10:12:11 INFO  Keywords:293 - ISD Calls to Nepal @ Rs. 6/min
+2017-04-30 10:12:11 INFO  Keywords:293 - ISD Calls to Canada + USA @ Rs. 1.99/min, UK (Landline) @ Rs. 1.99/min, China + Hongkong + New Zealand + Singapore @ Rs. 2.99/min, Bahrain + Bangladesh + Indonesia + Italy + Malaysia + Thailand @ Rs. 3.99/min, Nigeria + Sri Lanka @ Rs. 6.50/min, Australia + Bhutan + Kuwait + Pakistan + Saudi Arabia @ Rs. 6.99/min, Nepal @ Rs. 7.50/min, UK (Mobile) @ Rs. 8.50/min, Phillipines + Yemen @ Rs. 8.50/min, Russia (Mobile) @ Rs. 8.99/min, UAE @ Rs. 8.99/min, Qatar @ Rs. 9.50/min, Iraq @ Rs. 12.50/min, Afghanistan + Oman @ Rs. 13.99/min, Maldives @ Rs. 46/min
+2017-04-30 10:12:11 INFO  Keywords:293 - 10 ISD mins free for Nepal
+2017-04-30 10:12:11 INFO  Keywords:293 - 10 ISD mins free for Nepal
+2017-04-30 10:12:11 INFO  Keywords:297 - ISD plans are 4
+2017-04-30 10:12:11 INFO  Keywords:310 - Capture the Screen shot
+2017-04-30 10:12:12 INFO  HomePageTestCases:117 - Closing the browser
+2017-04-30 10:12:12 INFO  Keywords:340 - Closing the browser
+2017-04-30 10:12:13 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-30 10:12:13 INFO  Keywords:67 - Inside startBrowser Method
+2017-04-30 10:12:22 INFO  Keywords:73 - Starting Firefox browser
+2017-04-30 10:12:22 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-30 10:12:22 INFO  Keywords:116 - Opening URL: https://www.freecharge.in/
+2017-04-30 10:12:28 INFO  HomePageTestCases:106 - Verifying least validity plan
+2017-04-30 10:12:28 INFO  Home:92 - Entering Phone Number for Recharge
+2017-04-30 10:12:28 INFO  Keywords:245 - Entering text is 9818012345
+2017-04-30 10:12:30 INFO  Home:175 - Clicking on proceed button
+2017-04-30 10:12:33 INFO  Home:142 - Finding least validity plan
+2017-04-30 10:12:33 INFO  Keywords:165 - Finding plan
+2017-04-30 10:12:34 INFO  Keywords:189 - All elements have Unlimited Validity
+2017-04-30 10:12:34 INFO  Keywords:310 - Capture the Screen shot
+2017-04-30 10:12:34 INFO  HomePageTestCases:117 - Closing the browser
+2017-04-30 10:12:34 INFO  Keywords:340 - Closing the browser
+2017-04-30 10:12:36 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-30 10:12:36 INFO  Keywords:67 - Inside startBrowser Method
+2017-04-30 10:12:44 INFO  Keywords:73 - Starting Firefox browser
+2017-04-30 10:12:44 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-30 10:12:45 INFO  Keywords:116 - Opening URL: https://www.freecharge.in/
+2017-04-30 10:12:51 INFO  HomePageTestCases:63 - Finding effective plan
+2017-04-30 10:12:51 INFO  Home:92 - Entering Phone Number for Recharge
+2017-04-30 10:12:51 INFO  Keywords:245 - Entering text is 9818012345
+2017-04-30 10:12:54 INFO  Home:175 - Clicking on proceed button
+2017-04-30 10:12:57 INFO  Home:74 - Finding effective plans
+2017-04-30 10:12:57 INFO  Keywords:135 - Finding Full Talktime plan
+2017-04-30 10:12:57 INFO  Keywords:145 - Full Talktime plan found
+2017-04-30 10:12:57 INFO  Keywords:135 - Finding ISD plan
+2017-04-30 10:13:02 INFO  Keywords:147 - Unable to find ISD plan
+2017-04-30 10:13:02 FATAL Keywords:148 - java.lang.Exception
+2017-04-30 10:13:02 INFO  HomePageTestCases:117 - Closing the browser
+2017-04-30 10:13:02 INFO  Keywords:340 - Closing the browser
+2017-04-30 10:13:03 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-30 10:13:03 INFO  Keywords:67 - Inside startBrowser Method
+2017-04-30 10:13:10 INFO  Keywords:73 - Starting Firefox browser
+2017-04-30 10:13:10 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-30 10:13:10 INFO  Keywords:116 - Opening URL: https://www.freecharge.in/
+2017-04-30 10:13:17 INFO  HomePageTestCases:48 - Initiating Recharge
+2017-04-30 10:13:17 INFO  Home:92 - Entering Phone Number for Recharge
+2017-04-30 10:13:17 INFO  Keywords:245 - Entering text is 9818012345
+2017-04-30 10:13:19 INFO  Home:160 - Selecting an operator
+2017-04-30 10:13:19 INFO  Keywords:379 - Selecting value Airtel
+2017-04-30 10:13:20 INFO  Home:175 - Clicking on proceed button
+2017-04-30 10:13:23 INFO  Home:191 - Counting number of recommended plans
+2017-04-30 10:13:23 INFO  Home:194 - Total number of recommended plans are: 41
+2017-04-30 10:13:23 INFO  Keywords:310 - Capture the Screen shot
+2017-04-30 10:13:23 INFO  HomePageTestCases:117 - Closing the browser
+2017-04-30 10:13:23 INFO  Keywords:340 - Closing the browser
+2017-04-30 10:13:24 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-30 10:13:24 INFO  Keywords:67 - Inside startBrowser Method
+2017-04-30 10:13:33 INFO  Keywords:73 - Starting Firefox browser
+2017-04-30 10:13:33 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-30 10:13:33 INFO  Keywords:116 - Opening URL: https://www.freecharge.in/
+2017-04-30 10:13:39 INFO  HomePageTestCases:77 - Findingting effective plan
+2017-04-30 10:13:39 INFO  Home:92 - Entering Phone Number for Recharge
+2017-04-30 10:13:39 INFO  Keywords:245 - Entering text is 9818012345
+2017-04-30 10:13:42 INFO  Home:175 - Clicking on proceed button
+2017-04-30 10:13:44 INFO  Home:108 - Verifying the existance of non FTT plan in FTT tab
+2017-04-30 10:13:45 INFO  Keywords:354 - Verify list not cotains other element
+2017-04-30 10:13:45 INFO  Keywords:360 - List does not contain non Full Talktime plan
+2017-04-30 10:13:45 INFO  Keywords:310 - Capture the Screen shot
+2017-04-30 10:13:46 INFO  HomePageTestCases:117 - Closing the browser
+2017-04-30 10:13:46 INFO  Keywords:340 - Closing the browser

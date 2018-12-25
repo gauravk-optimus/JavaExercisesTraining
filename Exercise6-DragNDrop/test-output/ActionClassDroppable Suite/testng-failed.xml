@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ActionClassDroppable Suite]">
+  <test name="Profile Test(failed)">
+    <classes>
+      <class name="com.DragNDrop.testcases.DroppablePageTestCases">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialSetUp"/>
+          <include name="afterSuite"/>
+          <include name="rechargeInitiate" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.DragNDrop.testcases.DroppablePageTestCases -->
+    </classes>
+  </test> <!-- Profile Test(failed) -->
+</suite> <!-- Failed suite [ActionClassDroppable Suite] -->

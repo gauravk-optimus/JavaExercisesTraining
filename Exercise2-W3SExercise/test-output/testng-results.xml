@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="W3S Suite" duration-ms="24458" started-at="2017-04-29T16:16:13Z" finished-at="2017-04-29T16:16:38Z">
+    <groups>
+    </groups>
+    <test name="Profile Test" duration-ms="24458" started-at="2017-04-29T16:16:13Z" finished-at="2017-04-29T16:16:38Z">
+      <class name="com.w3s.testcases.W3sPageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.w3s.testcases.W3sPageTestCases@4883b407]" name="initialSetUp" is-config="true" duration-ms="19349" started-at="2017-04-29T21:46:13Z" finished-at="2017-04-29T21:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="verifyDropdownValue()[pri:0, instance:com.w3s.testcases.W3sPageTestCases@4883b407]" name="verifyDropdownValue" duration-ms="3919" started-at="2017-04-29T21:46:33Z" finished-at="2017-04-29T21:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDropdownValue -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.w3s.testcases.W3sPageTestCases@4883b407]" name="closeBrowser" is-config="true" duration-ms="1162" started-at="2017-04-29T21:46:37Z" finished-at="2017-04-29T21:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.w3s.testcases.W3sPageTestCases@4883b407]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-04-29T21:46:38Z" finished-at="2017-04-29T21:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.w3s.testcases.W3sPageTestCases -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- W3S Suite -->
+</testng-results>

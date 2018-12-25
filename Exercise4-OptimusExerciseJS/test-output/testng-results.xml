@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JS Suite" duration-ms="13101" started-at="2017-12-17T06:30:17Z" finished-at="2017-12-17T06:30:30Z">
+    <groups>
+    </groups>
+    <test name="JS Test" duration-ms="13101" started-at="2017-12-17T06:30:17Z" finished-at="2017-12-17T06:30:30Z">
+      <class name="com.Optimus.testcases.ContactUsPageTestCases">
+        <test-method status="FAIL" signature="initialSetUp()[pri:0, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="initialSetUp" is-config="true" duration-ms="0" started-at="2017-12-17T12:00:17Z" finished-at="2017-12-17T12:00:17Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.fail(Assert.java:101)
+	at com.Optimus.testcases.ContactUsPageTestCases.initialSetUp(ContactUsPageTestCases.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="SKIP" signature="contact(org.testng.ITestContext)[pri:1, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="contact" duration-ms="0" started-at="2017-12-17T12:00:30Z" description="User is able enter, change, delete text using JS" finished-at="2017-12-17T12:00:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@67c33749]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method status="SKIP" signature="closeBrowser()[pri:0, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2017-12-17T12:00:30Z" finished-at="2017-12-17T12:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="SKIP" signature="afterSuite()[pri:0, instance:com.Optimus.testcases.ContactUsPageTestCases@4883b407]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-12-17T12:00:30Z" finished-at="2017-12-17T12:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Optimus.testcases.ContactUsPageTestCases -->
+    </test> <!-- JS Test -->
+  </suite> <!-- JS Suite -->
+</testng-results>

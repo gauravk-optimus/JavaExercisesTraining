@@ -1,0 +1,1113 @@
+2017-03-07 21:57:23 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-07 21:57:23 INFO  Keywords:82 - Inside startBrowser Method
+2017-03-07 21:57:30 INFO  Keywords:96 - Starting Chrome browser
+2017-03-07 21:57:30 INFO  Keywords:125 - Inside navigateTo Method
+2017-03-07 21:57:31 INFO  Keywords:133 - Opening URL: https://www.freecharge.in/
+2017-03-07 21:57:44 INFO  HomePageTestCases:48 - Verifying brands
+2017-03-07 21:57:44 INFO  Home:29 - Verifying brands on the bottom of the page
+2017-03-07 21:57:44 INFO  Keywords:275 - Verifying the text
+2017-03-07 21:57:44 INFO  Keywords:277 - Actual value is: Airtel
+2017-03-07 21:57:44 INFO  Keywords:278 - Expected value is: Airtel
+2017-03-07 21:57:44 INFO  Keywords:296 - Capture the Screen shot
+2017-03-07 21:57:45 INFO  HomePageTestCases:63 - Closing the browser
+2017-03-07 21:57:45 INFO  Keywords:361 - Closing the browser
+2017-03-08 08:05:40 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 08:05:40 INFO  Keywords:82 - Inside startBrowser Method
+2017-03-08 08:05:45 INFO  Keywords:96 - Starting Chrome browser
+2017-03-08 08:05:45 INFO  Keywords:125 - Inside navigateTo Method
+2017-03-08 08:05:46 INFO  Keywords:133 - Opening URL: https://www.freecharge.in/
+2017-03-08 08:05:53 INFO  HomePageTestCases:48 - Verifying brands
+2017-03-08 08:05:53 INFO  Home:37 - Verifying brands on the bottom of the page
+2017-03-08 08:06:08 INFO  Keywords:349 - org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for com.Freecharge.executor.Keywords$2@738dc9b
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Gaurav', ip: '192.168.0.106', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_25'
+Driver info: driver.version: unknown
+2017-03-08 08:06:08 INFO  HomePageTestCases:65 - Closing the browser
+2017-03-08 08:06:08 INFO  Keywords:361 - Closing the browser
+2017-03-08 08:06:51 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 08:06:51 INFO  Keywords:82 - Inside startBrowser Method
+2017-03-08 08:06:54 INFO  Keywords:96 - Starting Chrome browser
+2017-03-08 08:06:54 INFO  Keywords:125 - Inside navigateTo Method
+2017-03-08 08:06:55 INFO  Keywords:133 - Opening URL: https://www.freecharge.in/
+2017-03-08 08:07:06 INFO  HomePageTestCases:48 - Verifying brands
+2017-03-08 08:07:06 INFO  Home:37 - Verifying brands on the bottom of the page
+2017-03-08 08:07:06 INFO  Keywords:275 - Verifying the text
+2017-03-08 08:07:06 INFO  Keywords:277 - Actual value is: Airtel
+2017-03-08 08:07:06 INFO  Keywords:278 - Expected value is: Airtel
+2017-03-08 08:07:06 INFO  Keywords:296 - Capture the Screen shot
+2017-03-08 08:07:07 INFO  HomePageTestCases:65 - Closing the browser
+2017-03-08 08:07:07 INFO  Keywords:361 - Closing the browser
+2017-03-08 08:25:04 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 08:25:04 INFO  Keywords:82 - Inside startBrowser Method
+2017-03-08 08:25:07 INFO  Keywords:96 - Starting Chrome browser
+2017-03-08 08:25:07 INFO  Keywords:125 - Inside navigateTo Method
+2017-03-08 08:25:09 INFO  Keywords:133 - Opening URL: https://www.freecharge.in/
+2017-03-08 08:25:16 INFO  HomePageTestCases:48 - Verifying brands
+2017-03-08 08:25:16 INFO  Home:37 - Verifying brands on the bottom of the page
+2017-03-08 08:25:16 INFO  Keywords:275 - Verifying the text
+2017-03-08 08:25:16 INFO  Keywords:277 - Actual value is: MOBILE RECHARGE
+Airtel
+Aircel
+Vodafone
+BSNL
+Tata Docomo GSM
+Idea
+indicom Walky
+MTNL Delhi
+Reliance CDMA
+Reliance GSM
+Tata Indicom
+Telenor
+MTS
+Videocon
+Virgin CDMA
+Virgin GSM
+Tata Docomo CDMA
+DATA CARD RECHARGE
+Tata Photon
+MTS MBlaze
+MTS MBrowse
+Airtel
+BSNL
+Aircel
+MTNL Delhi
+Vodafone
+Idea
+MTNL Mumbai
+Tata Photon Whiz
+DTH(TV) RECHARGE
+Airtel Digital TV
+Reliance Digital TV
+Dish TV
+Tata Sky
+Sun Direct
+Videocon D2H
+POSTPAID
+Airtel Bill Payment
+BSNL Bill Payment
+Tata Docomo GSM Bill Payment
+Tata Docomo CDMA Bill Payment
+Idea Bill Payment
+Vodafone Bill Payment
+Reliance GSM Bill
+Reliance CDMA Bill
+FREECHARGE
+About Us
+Support
+Contact Us
+Sitemap
+Geekery
+T & C
+Blog
+MOBILE
+Android App
+Windows
+Mobile Site
+IOS
+JOIN US
+DOWNLOAD THE APPSECURED
+2017-03-08 08:25:16 INFO  Keywords:278 - Expected value is: Airtel
+2017-03-08 08:25:16 INFO  Keywords:296 - Capture the Screen shot
+2017-03-08 08:25:17 INFO  HomePageTestCases:65 - Closing the browser
+2017-03-08 08:25:17 INFO  Keywords:361 - Closing the browser
+2017-03-08 11:08:31 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 11:08:31 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 11:08:34 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 11:08:34 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 11:08:35 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 11:08:46 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 11:08:46 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 11:08:46 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 11:08:46 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 11:08:47 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 11:08:47 FATAL Keywords:588 - java.lang.NullPointerException
+2017-03-08 11:08:47 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 11:08:47 INFO  Keywords:362 - Closing the browser
+2017-03-08 11:12:32 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 11:12:32 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 11:12:35 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 11:12:35 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 11:12:36 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 11:12:43 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 11:12:43 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 11:12:43 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 11:12:44 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 11:12:44 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 11:12:44 FATAL Keywords:588 - java.lang.NullPointerException
+2017-03-08 11:12:44 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 11:12:44 INFO  Keywords:362 - Closing the browser
+2017-03-08 11:13:22 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 11:13:22 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 11:13:24 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 11:13:24 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 11:13:25 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 11:13:32 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 11:13:32 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 11:13:32 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 11:13:33 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 11:13:33 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 11:13:33 FATAL Keywords:588 - java.lang.NullPointerException
+2017-03-08 11:13:33 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 11:13:33 INFO  Keywords:362 - Closing the browser
+2017-03-08 11:17:51 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 11:17:51 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 11:17:54 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 11:17:54 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 11:17:55 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 11:18:03 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 11:18:03 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 11:18:03 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 11:18:03 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 11:18:03 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 11:18:03 FATAL Keywords:592 - java.lang.NullPointerException
+2017-03-08 11:18:03 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 11:18:03 INFO  Keywords:362 - Closing the browser
+2017-03-08 11:19:05 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 11:19:05 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 11:19:09 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 11:19:09 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 11:19:10 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 11:19:25 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 11:19:25 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 11:19:25 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 11:19:25 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 11:19:25 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 11:19:26 FATAL Keywords:592 - java.lang.NullPointerException
+2017-03-08 11:19:26 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 11:19:26 INFO  Keywords:362 - Closing the browser
+2017-03-08 11:21:57 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 11:21:57 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 11:21:59 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 11:21:59 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 11:22:01 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 11:22:08 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 11:22:08 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 11:22:08 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 11:22:08 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 11:22:09 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 11:22:09 FATAL Keywords:592 - java.lang.NullPointerException
+2017-03-08 11:22:09 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 11:22:09 INFO  Keywords:362 - Closing the browser
+2017-03-08 11:23:25 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 11:23:25 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 11:23:27 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 11:23:27 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 11:23:28 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 11:23:36 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 11:23:36 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 11:23:36 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 11:23:36 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 11:23:37 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 11:23:37 FATAL Keywords:592 - java.lang.NullPointerException
+2017-03-08 11:23:37 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 11:23:37 INFO  Keywords:362 - Closing the browser
+2017-03-08 12:07:59 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 12:07:59 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 12:08:02 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 12:08:02 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 12:08:03 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 12:08:11 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 12:08:11 INFO  Home:55 - Entering Wrong Phone Number for Recharge
+2017-03-08 12:08:11 INFO  Keywords:255 - Entering text is 1234
+2017-03-08 12:08:12 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 12:08:12 INFO  Keywords:581 - Verifying the radio button 
+2017-03-08 12:08:12 INFO  Keywords:276 - Verifying the text
+2017-03-08 12:08:12 INFO  Keywords:278 - Actual value is: Operator
+Aircel
+Airtel
+BSNL
+Tata Docomo GSM
+Idea
+Indicom Walky
+MTNL Delhi
+Reliance GSM/CDMA
+Tata Indicom
+Telenor
+Vodafone
+MTS
+Videocon Mobile
+Virgin GSM
+Virgin CDMA
+Tata Docomo CDMA
+T24
+MTNL Mumbai
+2017-03-08 12:08:12 INFO  Keywords:279 - Expected value is: Idea
+2017-03-08 12:08:12 INFO  Keywords:276 - Verifying the text
+2017-03-08 12:08:12 INFO  Keywords:278 - Actual value is: Operator
+Aircel
+Airtel
+BSNL
+Tata Docomo GSM
+Idea
+Indicom Walky
+MTNL Delhi
+Reliance GSM/CDMA
+Tata Indicom
+Telenor
+Vodafone
+MTS
+Videocon Mobile
+Virgin GSM
+Virgin CDMA
+Tata Docomo CDMA
+T24
+MTNL Mumbai
+2017-03-08 12:08:12 INFO  Keywords:279 - Expected value is: Idea
+2017-03-08 12:08:12 INFO  Keywords:297 - Capture the Screen shot
+2017-03-08 12:08:13 INFO  HomePageTestCases:79 - Closing the browser
+2017-03-08 12:08:13 INFO  Keywords:362 - Closing the browser
+2017-03-08 12:24:24 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 12:24:24 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 12:24:28 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 12:24:28 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 12:24:29 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 12:24:36 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 12:24:36 INFO  Home:59 - Entering Wrong Phone Number for Recharge
+2017-03-08 12:24:36 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 12:24:36 INFO  Home:76 - Verifying the default option postpaid/prepaid
+2017-03-08 12:24:36 INFO  Keywords:581 - Verifying the radio button 
+2017-03-08 12:24:37 INFO  Home:91 - Verifying the default operator
+2017-03-08 12:24:37 INFO  Keywords:276 - Verifying the text
+2017-03-08 12:24:37 INFO  Keywords:278 - Actual value is: Operator
+Aircel
+Airtel
+BSNL
+Tata Docomo GSM
+Idea
+Indicom Walky
+MTNL Delhi
+Reliance GSM/CDMA
+Tata Indicom
+Telenor
+Vodafone
+MTS
+Videocon Mobile
+Virgin GSM
+Virgin CDMA
+Tata Docomo CDMA
+T24
+MTNL Mumbai
+2017-03-08 12:24:37 INFO  Keywords:279 - Expected value is: Idea
+2017-03-08 12:24:37 INFO  Keywords:297 - Capture the Screen shot
+2017-03-08 12:24:37 INFO  HomePageTestCases:83 - Closing the browser
+2017-03-08 12:24:37 INFO  Keywords:362 - Closing the browser
+2017-03-08 12:25:00 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 12:25:00 INFO  Keywords:83 - Inside startBrowser Method
+2017-03-08 12:25:03 INFO  Keywords:97 - Starting Chrome browser
+2017-03-08 12:25:03 INFO  Keywords:126 - Inside navigateTo Method
+2017-03-08 12:25:04 INFO  Keywords:134 - Opening URL: https://www.freecharge.in/
+2017-03-08 12:25:13 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 12:25:13 INFO  Home:59 - Entering Wrong Phone Number for Recharge
+2017-03-08 12:25:13 INFO  Keywords:255 - Entering text is 9891234567
+2017-03-08 12:25:13 INFO  Home:76 - Verifying the default option postpaid/prepaid
+2017-03-08 12:25:13 INFO  Keywords:581 - Verifying the radio button 
+2017-03-08 12:25:13 INFO  Home:91 - Verifying the default operator
+2017-03-08 12:25:13 INFO  Keywords:276 - Verifying the text
+2017-03-08 12:25:13 INFO  Keywords:278 - Actual value is: Operator
+Aircel
+Airtel
+BSNL
+Tata Docomo GSM
+Idea
+Indicom Walky
+MTNL Delhi
+Reliance GSM/CDMA
+Tata Indicom
+Telenor
+Vodafone
+MTS
+Videocon Mobile
+Virgin GSM
+Virgin CDMA
+Tata Docomo CDMA
+T24
+MTNL Mumbai
+2017-03-08 12:25:13 INFO  Keywords:279 - Expected value is: Idead
+2017-03-08 12:25:13 FATAL Keywords:285 - java.lang.Exception
+2017-03-08 12:25:13 INFO  HomePageTestCases:83 - Closing the browser
+2017-03-08 12:25:13 INFO  Keywords:362 - Closing the browser
+2017-03-08 12:46:17 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 12:46:17 INFO  Keywords:84 - Inside startBrowser Method
+2017-03-08 12:46:21 INFO  Keywords:98 - Starting Chrome browser
+2017-03-08 12:46:21 INFO  Keywords:127 - Inside navigateTo Method
+2017-03-08 12:46:22 INFO  Keywords:135 - Opening URL: https://www.freecharge.in/
+2017-03-08 12:46:29 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 12:46:29 INFO  Home:60 - Entering Wrong Phone Number for Recharge
+2017-03-08 12:46:29 INFO  Keywords:256 - Entering text is 9891234567
+2017-03-08 12:46:29 INFO  Home:77 - Verifying the default option postpaid/prepaid
+2017-03-08 12:46:29 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 12:46:29 INFO  Home:92 - Verifying the default operator
+2017-03-08 12:46:29 INFO  Keywords:277 - Verifying the text
+2017-03-08 12:46:29 INFO  Keywords:279 - Actual value is: Operator
+Aircel
+Airtel
+BSNL
+Tata Docomo GSM
+Idea
+Indicom Walky
+MTNL Delhi
+Reliance GSM/CDMA
+Tata Indicom
+Telenor
+Vodafone
+MTS
+Videocon Mobile
+Virgin GSM
+Virgin CDMA
+Tata Docomo CDMA
+T24
+MTNL Mumbai
+2017-03-08 12:46:29 INFO  Keywords:280 - Expected value is: Idea
+2017-03-08 12:46:29 INFO  Home:107 - Selecting an operator
+2017-03-08 12:46:29 INFO  Keywords:605 - Selectin value is Airtel
+2017-03-08 12:46:29 INFO  Keywords:298 - Capture the Screen shot
+2017-03-08 12:46:30 INFO  HomePageTestCases:83 - Closing the browser
+2017-03-08 12:46:30 INFO  Keywords:363 - Closing the browser
+2017-03-08 13:10:13 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 13:10:13 INFO  Keywords:84 - Inside startBrowser Method
+2017-03-08 13:10:16 INFO  Keywords:98 - Starting Chrome browser
+2017-03-08 13:10:16 INFO  Keywords:127 - Inside navigateTo Method
+2017-03-08 13:10:17 INFO  Keywords:135 - Opening URL: https://www.freecharge.in/
+2017-03-08 13:10:29 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 13:10:29 INFO  Home:68 - Entering Wrong Phone Number for Recharge
+2017-03-08 13:10:29 INFO  Keywords:256 - Entering text is 9891234567
+2017-03-08 13:10:29 INFO  Home:85 - Verifying the default option postpaid/prepaid
+2017-03-08 13:10:29 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 13:10:29 INFO  Home:100 - Verifying the default operator
+2017-03-08 13:10:29 INFO  Keywords:277 - Verifying the text
+2017-03-08 13:10:29 INFO  Keywords:279 - Actual value is: Operator
+Aircel
+Airtel
+BSNL
+Tata Docomo GSM
+Idea
+Indicom Walky
+MTNL Delhi
+Reliance GSM/CDMA
+Tata Indicom
+Telenor
+Vodafone
+MTS
+Videocon Mobile
+Virgin GSM
+Virgin CDMA
+Tata Docomo CDMA
+T24
+MTNL Mumbai
+2017-03-08 13:10:29 INFO  Keywords:280 - Expected value is: Idea
+2017-03-08 13:10:29 INFO  Home:115 - Selecting an operator
+2017-03-08 13:10:29 INFO  Keywords:605 - Selectin value is Idea
+2017-03-08 13:10:30 INFO  Home:131 - Clicking on proceed button
+2017-03-08 13:10:30 INFO  Home:131 - Clicking on proceed button
+2017-03-08 13:10:30 INFO  Keywords:298 - Capture the Screen shot
+2017-03-08 13:10:30 INFO  HomePageTestCases:84 - Closing the browser
+2017-03-08 13:10:30 INFO  Keywords:363 - Closing the browser
+2017-03-08 13:11:00 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 13:11:00 INFO  Keywords:84 - Inside startBrowser Method
+2017-03-08 13:11:04 INFO  Keywords:98 - Starting Chrome browser
+2017-03-08 13:11:04 INFO  Keywords:127 - Inside navigateTo Method
+2017-03-08 13:11:05 INFO  Keywords:135 - Opening URL: https://www.freecharge.in/
+2017-03-08 13:11:13 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 13:11:13 INFO  Home:68 - Entering Wrong Phone Number for Recharge
+2017-03-08 13:11:13 INFO  Keywords:256 - Entering text is 9891234567
+2017-03-08 13:11:13 INFO  Home:85 - Verifying the default option postpaid/prepaid
+2017-03-08 13:11:13 INFO  Keywords:582 - Verifying the radio button 
+2017-03-08 13:11:14 INFO  Home:100 - Verifying the default operator
+2017-03-08 13:11:14 INFO  Keywords:277 - Verifying the text
+2017-03-08 13:11:14 INFO  Keywords:279 - Actual value is: Operator
+Aircel
+Airtel
+BSNL
+Tata Docomo GSM
+Idea
+Indicom Walky
+MTNL Delhi
+Reliance GSM/CDMA
+Tata Indicom
+Telenor
+Vodafone
+MTS
+Videocon Mobile
+Virgin GSM
+Virgin CDMA
+Tata Docomo CDMA
+T24
+MTNL Mumbai
+2017-03-08 13:11:14 INFO  Keywords:280 - Expected value is: Idea
+2017-03-08 13:11:14 INFO  Home:115 - Selecting an operator
+2017-03-08 13:11:14 INFO  Keywords:605 - Selectin value is Idea
+2017-03-08 13:11:14 INFO  Home:131 - Clicking on proceed button
+2017-03-08 13:11:14 INFO  Home:146 - Verifying the value of Price field
+2017-03-08 13:11:14 INFO  Keywords:277 - Verifying the text
+2017-03-08 13:11:14 INFO  Keywords:279 - Actual value is: 
+2017-03-08 13:11:14 INFO  Keywords:280 - Expected value is: 
+2017-03-08 13:11:14 INFO  Keywords:298 - Capture the Screen shot
+2017-03-08 13:11:14 INFO  HomePageTestCases:84 - Closing the browser
+2017-03-08 13:11:14 INFO  Keywords:363 - Closing the browser
+2017-03-08 14:54:16 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 14:54:16 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 14:54:20 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 14:54:20 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 14:54:21 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 14:54:29 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 14:54:29 INFO  Home:69 - Entering Phone Number for Recharge
+2017-03-08 14:54:29 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 14:54:30 INFO  Home:86 - Verifying the default option postpaid/prepaid
+2017-03-08 14:54:30 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 14:54:30 INFO  Home:101 - Verifying the default operator
+2017-03-08 14:54:30 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 14:54:31 INFO  Keywords:632 - Actual value is: Idea
+2017-03-08 14:54:31 INFO  Keywords:633 - Expected value is: Idea
+2017-03-08 14:54:31 INFO  Home:161 - Verifying number of operators
+2017-03-08 14:54:31 INFO  Keywords:652 - Verifying number of items in the dropdown 
+2017-03-08 14:54:31 FATAL Keywords:662 - java.lang.Exception
+2017-03-08 14:54:31 INFO  HomePageTestCases:85 - Closing the browser
+2017-03-08 14:54:31 INFO  Keywords:366 - Closing the browser
+2017-03-08 14:59:15 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 14:59:15 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 14:59:18 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 14:59:18 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 14:59:19 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 14:59:29 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 14:59:29 INFO  Home:69 - Entering Phone Number for Recharge
+2017-03-08 14:59:29 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 14:59:29 INFO  Home:86 - Verifying the default option postpaid/prepaid
+2017-03-08 14:59:29 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 14:59:29 INFO  Home:101 - Verifying the default operator
+2017-03-08 14:59:29 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 14:59:30 INFO  Keywords:632 - Actual value is: Idea
+2017-03-08 14:59:30 INFO  Keywords:633 - Expected value is: Idea
+2017-03-08 14:59:30 INFO  Home:161 - Verifying number of operators
+2017-03-08 14:59:30 INFO  Keywords:652 - Verifying number of items in the dropdown 
+2017-03-08 14:59:30 FATAL Keywords:667 - java.lang.Exception
+2017-03-08 14:59:30 INFO  HomePageTestCases:85 - Closing the browser
+2017-03-08 14:59:30 INFO  Keywords:366 - Closing the browser
+2017-03-08 15:02:30 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 15:02:30 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 15:02:34 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 15:02:34 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 15:02:35 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 15:02:43 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 15:02:43 INFO  Home:69 - Entering Phone Number for Recharge
+2017-03-08 15:02:43 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 15:02:43 INFO  Home:86 - Verifying the default option postpaid/prepaid
+2017-03-08 15:02:43 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 15:02:44 INFO  Home:101 - Verifying the default operator
+2017-03-08 15:02:44 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 15:02:44 INFO  Keywords:632 - Actual value is: Idea
+2017-03-08 15:02:44 INFO  Keywords:633 - Expected value is: Idea
+2017-03-08 15:02:44 INFO  Home:161 - Verifying number of operators
+2017-03-08 15:02:44 INFO  Keywords:652 - Verifying number of items in the dropdown 
+2017-03-08 15:02:44 INFO  Keywords:660 - Actual value is: 19
+2017-03-08 15:02:44 INFO  Keywords:661 - Expected value is: 10
+2017-03-08 15:02:44 INFO  Keywords:664 - Expected number of items are not equal to actual
+2017-03-08 15:02:44 FATAL Keywords:668 - java.lang.Exception
+2017-03-08 15:02:44 INFO  HomePageTestCases:85 - Closing the browser
+2017-03-08 15:02:44 INFO  Keywords:366 - Closing the browser
+2017-03-08 15:03:23 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 15:03:23 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 15:03:26 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 15:03:26 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 15:03:27 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 15:03:36 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 15:03:36 INFO  Home:69 - Entering Phone Number for Recharge
+2017-03-08 15:03:36 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 15:03:36 INFO  Home:86 - Verifying the default option postpaid/prepaid
+2017-03-08 15:03:36 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 15:03:37 INFO  Home:101 - Verifying the default operator
+2017-03-08 15:03:37 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 15:03:37 FATAL Keywords:635 - java.lang.Exception
+2017-03-08 15:03:37 INFO  HomePageTestCases:85 - Closing the browser
+2017-03-08 15:03:37 INFO  Keywords:366 - Closing the browser
+2017-03-08 15:05:22 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 15:05:22 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 15:05:25 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 15:05:25 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 15:05:26 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 15:05:34 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 15:05:34 INFO  Home:69 - Entering Phone Number for Recharge
+2017-03-08 15:05:34 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 15:05:35 INFO  Home:86 - Verifying the default option postpaid/prepaid
+2017-03-08 15:05:35 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 15:05:35 INFO  Home:101 - Verifying the default operator
+2017-03-08 15:05:35 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 15:05:35 INFO  Keywords:632 - Actual value is: Idea
+2017-03-08 15:05:35 INFO  Keywords:633 - Expected value is: Idea
+2017-03-08 15:05:35 INFO  Home:161 - Verifying number of operators
+2017-03-08 15:05:35 INFO  Keywords:652 - Verifying number of items in the dropdown 
+2017-03-08 15:05:36 INFO  Keywords:660 - Actual value is: 19
+2017-03-08 15:05:36 INFO  Keywords:661 - Expected value is: 19
+2017-03-08 15:05:36 INFO  Home:116 - Selecting an operator
+2017-03-08 15:05:36 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 15:05:36 INFO  Home:132 - Clicking on proceed button
+2017-03-08 15:05:36 INFO  Home:147 - Verifying the value of Price field
+2017-03-08 15:05:36 INFO  Keywords:280 - Verifying the text
+2017-03-08 15:05:36 INFO  Keywords:282 - Actual value is: 
+2017-03-08 15:05:36 INFO  Keywords:283 - Expected value is: 
+2017-03-08 15:05:36 INFO  Keywords:301 - Capture the Screen shot
+2017-03-08 15:05:37 INFO  HomePageTestCases:85 - Closing the browser
+2017-03-08 15:05:37 INFO  Keywords:366 - Closing the browser
+2017-03-08 15:22:24 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 15:22:24 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 15:22:27 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 15:22:27 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 15:22:28 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 15:22:38 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 15:22:38 INFO  Home:72 - Entering Phone Number for Recharge
+2017-03-08 15:22:38 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 15:22:38 INFO  Home:89 - Verifying the default option postpaid/prepaid
+2017-03-08 15:22:38 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 15:22:38 INFO  Home:104 - Verifying the default operator
+2017-03-08 15:22:38 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 15:22:39 FATAL Keywords:635 - java.lang.Exception
+2017-03-08 15:22:39 INFO  HomePageTestCases:86 - Closing the browser
+2017-03-08 15:22:39 INFO  Keywords:366 - Closing the browser
+2017-03-08 15:25:20 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 15:25:20 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 15:25:24 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 15:25:24 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 15:25:25 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 15:25:35 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 15:25:35 INFO  Home:72 - Entering Phone Number for Recharge
+2017-03-08 15:25:35 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 15:25:36 INFO  Home:89 - Verifying the default option postpaid/prepaid
+2017-03-08 15:25:36 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 15:25:36 INFO  Home:104 - Verifying the default operator
+2017-03-08 15:25:36 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 15:25:39 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 15:25:39 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 15:25:39 INFO  Home:164 - Verifying number of operators
+2017-03-08 15:25:39 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 15:25:39 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 15:25:39 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 15:25:39 INFO  Home:119 - Selecting an operator
+2017-03-08 15:25:39 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 15:25:39 INFO  Home:135 - Clicking on proceed button
+2017-03-08 15:25:40 INFO  Home:150 - Verifying the value of Price field
+2017-03-08 15:25:40 INFO  Keywords:280 - Verifying the text
+2017-03-08 15:25:40 INFO  Keywords:282 - Actual value is: 
+2017-03-08 15:25:40 INFO  Keywords:283 - Expected value is: 
+2017-03-08 15:25:40 INFO  Home:178 - Verifying number of recommended plans
+2017-03-08 15:25:40 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 15:25:40 FATAL Keywords:666 - org.openqa.selenium.support.ui.UnexpectedTagNameException: Element should have been "select" but was "ul"
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Gaurav', ip: '192.168.0.106', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_25'
+Driver info: driver.version: unknown
+2017-03-08 15:25:40 INFO  HomePageTestCases:86 - Closing the browser
+2017-03-08 15:25:40 INFO  Keywords:366 - Closing the browser
+2017-03-08 15:27:28 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 15:27:28 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 15:27:31 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 15:27:31 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 15:27:32 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 15:27:40 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 15:27:40 INFO  Home:72 - Entering Phone Number for Recharge
+2017-03-08 15:27:40 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 15:27:41 INFO  Home:89 - Verifying the default option postpaid/prepaid
+2017-03-08 15:27:41 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 15:27:41 INFO  Home:104 - Verifying the default operator
+2017-03-08 15:27:41 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 15:27:44 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 15:27:44 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 15:27:44 INFO  Home:164 - Verifying number of operators
+2017-03-08 15:27:44 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 15:27:44 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 15:27:44 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 15:27:44 INFO  Home:119 - Selecting an operator
+2017-03-08 15:27:44 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 15:27:44 INFO  Home:135 - Clicking on proceed button
+2017-03-08 15:27:45 INFO  Home:150 - Verifying the value of Price field
+2017-03-08 15:27:45 INFO  Keywords:280 - Verifying the text
+2017-03-08 15:27:45 INFO  Keywords:282 - Actual value is: 
+2017-03-08 15:27:45 INFO  Keywords:283 - Expected value is: 
+2017-03-08 15:27:45 INFO  Home:178 - Verifying number of recommended plans
+2017-03-08 15:27:45 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 15:27:45 FATAL Keywords:666 - org.openqa.selenium.support.ui.UnexpectedTagNameException: Element should have been "select" but was "div"
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Gaurav', ip: '192.168.0.106', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_25'
+Driver info: driver.version: unknown
+2017-03-08 15:27:45 INFO  HomePageTestCases:86 - Closing the browser
+2017-03-08 15:27:45 INFO  Keywords:366 - Closing the browser
+2017-03-08 15:41:57 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 15:41:57 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 15:42:00 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 15:42:00 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 15:42:01 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 15:42:09 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 15:42:09 INFO  Home:72 - Entering Phone Number for Recharge
+2017-03-08 15:42:09 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 15:42:09 INFO  Home:89 - Verifying the default option postpaid/prepaid
+2017-03-08 15:42:09 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 15:42:09 INFO  Home:104 - Verifying the default operator
+2017-03-08 15:42:09 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 15:42:13 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 15:42:13 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 15:42:13 INFO  Home:164 - Verifying number of operators
+2017-03-08 15:42:13 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 15:42:13 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 15:42:13 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 15:42:13 INFO  Home:119 - Selecting an operator
+2017-03-08 15:42:13 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 15:42:13 INFO  Home:135 - Clicking on proceed button
+2017-03-08 15:42:13 INFO  Home:150 - Verifying the value of Price field
+2017-03-08 15:42:13 INFO  Keywords:280 - Verifying the text
+2017-03-08 15:42:15 INFO  Keywords:282 - Actual value is: 
+2017-03-08 15:42:15 INFO  Keywords:283 - Expected value is: 
+2017-03-08 15:42:15 INFO  Home:178 - Verifying number of recommended plans
+2017-03-08 15:42:15 INFO  Keywords:682 - Verifying number of items in the dropdown 
+2017-03-08 15:42:15 FATAL Keywords:692 - java.lang.ClassCastException: com.sun.proxy.$Proxy8 cannot be cast to java.util.List
+2017-03-08 15:42:15 INFO  HomePageTestCases:86 - Closing the browser
+2017-03-08 15:42:15 INFO  Keywords:366 - Closing the browser
+2017-03-08 16:12:58 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 16:12:58 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 16:13:01 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 16:13:01 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 16:13:02 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 16:13:10 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 16:13:10 INFO  Home:72 - Entering Phone Number for Recharge
+2017-03-08 16:13:10 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 16:13:10 INFO  Home:89 - Verifying the default option postpaid/prepaid
+2017-03-08 16:13:10 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 16:13:10 INFO  Home:104 - Verifying the default operator
+2017-03-08 16:13:10 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 16:13:14 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 16:13:14 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 16:13:14 INFO  Home:164 - Verifying number of operators
+2017-03-08 16:13:14 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 16:13:14 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 16:13:14 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 16:13:14 INFO  Home:119 - Selecting an operator
+2017-03-08 16:13:14 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 16:13:14 INFO  Home:135 - Clicking on proceed button
+2017-03-08 16:13:14 INFO  Home:150 - Verifying the value of Price field
+2017-03-08 16:13:14 INFO  Keywords:280 - Verifying the text
+2017-03-08 16:13:14 INFO  Keywords:282 - Actual value is: 
+2017-03-08 16:13:14 INFO  Keywords:283 - Expected value is: 
+2017-03-08 16:13:14 INFO  HomePageTestCases:86 - Closing the browser
+2017-03-08 16:13:14 INFO  Keywords:366 - Closing the browser
+2017-03-08 16:18:00 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 16:18:00 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 16:18:03 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 16:18:03 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 16:18:04 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 16:18:15 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 16:18:16 INFO  Home:74 - Entering Phone Number for Recharge
+2017-03-08 16:18:16 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 16:18:16 INFO  Home:91 - Verifying the default option postpaid/prepaid
+2017-03-08 16:18:16 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 16:18:16 INFO  Home:106 - Verifying the default operator
+2017-03-08 16:18:16 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 16:18:19 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 16:18:19 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 16:18:19 INFO  Home:166 - Verifying number of operators
+2017-03-08 16:18:19 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 16:18:20 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 16:18:20 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 16:18:20 INFO  Home:121 - Selecting an operator
+2017-03-08 16:18:20 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 16:18:20 INFO  Home:137 - Clicking on proceed button
+2017-03-08 16:18:20 INFO  Home:152 - Verifying the value of Price field
+2017-03-08 16:18:20 INFO  Keywords:280 - Verifying the text
+2017-03-08 16:18:20 INFO  Keywords:282 - Actual value is: 
+2017-03-08 16:18:20 INFO  Keywords:283 - Expected value is: 
+2017-03-08 16:18:20 INFO  Home:180 - Verifying number of recommended plans
+2017-03-08 16:18:20 INFO  Keywords:683 - List count
+2017-03-08 16:18:20 INFO  Keywords:689 - Actual value is: 1
+2017-03-08 16:18:20 INFO  Keywords:690 - Expected value is: 4
+2017-03-08 16:18:20 INFO  Keywords:693 - Expected number of li are not equal to actual
+2017-03-08 16:18:20 FATAL Keywords:698 - java.lang.Exception
+2017-03-08 16:18:20 INFO  HomePageTestCases:86 - Closing the browser
+2017-03-08 16:18:20 INFO  Keywords:366 - Closing the browser
+2017-03-08 16:22:57 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 16:22:57 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 16:23:02 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 16:23:02 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 16:23:03 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 16:23:15 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 16:23:15 INFO  Home:74 - Entering Phone Number for Recharge
+2017-03-08 16:23:15 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 16:23:15 INFO  Home:91 - Verifying the default option postpaid/prepaid
+2017-03-08 16:23:15 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 16:23:15 INFO  Home:106 - Verifying the default operator
+2017-03-08 16:23:15 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 16:23:19 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 16:23:19 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 16:23:19 INFO  Home:166 - Verifying number of operators
+2017-03-08 16:23:19 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 16:23:19 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 16:23:19 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 16:23:19 INFO  Home:121 - Selecting an operator
+2017-03-08 16:23:19 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 16:23:19 INFO  Home:137 - Clicking on proceed button
+2017-03-08 16:23:19 INFO  Home:152 - Verifying the value of Price field
+2017-03-08 16:23:19 INFO  Keywords:280 - Verifying the text
+2017-03-08 16:23:19 INFO  Keywords:282 - Actual value is: 
+2017-03-08 16:23:19 INFO  Keywords:283 - Expected value is: 
+2017-03-08 16:23:19 INFO  Home:180 - Verifying number of recommended plans
+2017-03-08 16:23:19 INFO  Keywords:683 - List count
+2017-03-08 16:23:19 INFO  Keywords:689 - Actual value is: 1
+2017-03-08 16:23:19 INFO  Keywords:690 - Expected value is: 4
+2017-03-08 16:23:19 INFO  Keywords:301 - Capture the Screen shot
+2017-03-08 16:23:20 INFO  HomePageTestCases:86 - Closing the browser
+2017-03-08 16:23:20 INFO  Keywords:366 - Closing the browser
+2017-03-08 18:48:46 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 18:48:46 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 18:48:50 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 18:48:50 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 18:48:51 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 18:49:01 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 18:49:01 INFO  Home:81 - Entering Phone Number for Recharge
+2017-03-08 18:49:01 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 18:49:02 INFO  Home:98 - Verifying the default option postpaid/prepaid
+2017-03-08 18:49:02 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 18:49:02 INFO  Home:113 - Verifying the default operator
+2017-03-08 18:49:02 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 18:49:06 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 18:49:06 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 18:49:06 INFO  Home:173 - Verifying number of operators
+2017-03-08 18:49:06 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 18:49:06 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 18:49:06 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 18:49:06 INFO  Home:128 - Selecting an operator
+2017-03-08 18:49:06 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 18:49:06 INFO  Home:144 - Clicking on proceed button
+2017-03-08 18:49:06 INFO  Home:159 - Verifying the value of Price field
+2017-03-08 18:49:06 INFO  Keywords:280 - Verifying the text
+2017-03-08 18:49:06 INFO  Keywords:282 - Actual value is: 
+2017-03-08 18:49:06 INFO  Keywords:283 - Expected value is: 
+2017-03-08 18:49:06 INFO  Home:203 - Selecting effective plans
+2017-03-08 18:49:14 INFO  Keywords:301 - Capture the Screen shot
+2017-03-08 18:49:14 INFO  HomePageTestCases:87 - Closing the browser
+2017-03-08 18:49:14 INFO  Keywords:366 - Closing the browser
+2017-03-08 18:51:01 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 18:51:01 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 18:51:05 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 18:51:05 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 18:51:06 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 18:51:16 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 18:51:16 INFO  Home:83 - Entering Phone Number for Recharge
+2017-03-08 18:51:16 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 18:51:16 INFO  Home:100 - Verifying the default option postpaid/prepaid
+2017-03-08 18:51:16 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 18:51:16 INFO  Home:115 - Verifying the default operator
+2017-03-08 18:51:16 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 18:51:20 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 18:51:20 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 18:51:20 INFO  Home:175 - Verifying number of operators
+2017-03-08 18:51:20 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 18:51:20 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 18:51:20 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 18:51:20 INFO  Home:130 - Selecting an operator
+2017-03-08 18:51:20 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 18:51:20 INFO  Home:146 - Clicking on proceed button
+2017-03-08 18:51:21 INFO  Home:161 - Verifying the value of Price field
+2017-03-08 18:51:21 INFO  Keywords:280 - Verifying the text
+2017-03-08 18:51:21 INFO  Keywords:282 - Actual value is: 
+2017-03-08 18:51:21 INFO  Keywords:283 - Expected value is: 
+2017-03-08 18:51:21 INFO  Home:205 - Selecting effective plans
+2017-03-08 18:51:22 INFO  Keywords:301 - Capture the Screen shot
+2017-03-08 18:51:22 INFO  HomePageTestCases:87 - Closing the browser
+2017-03-08 18:51:22 INFO  Keywords:366 - Closing the browser
+2017-03-08 22:48:39 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-03-08 22:48:39 INFO  Keywords:87 - Inside startBrowser Method
+2017-03-08 22:48:50 INFO  Keywords:101 - Starting Chrome browser
+2017-03-08 22:48:50 INFO  Keywords:130 - Inside navigateTo Method
+2017-03-08 22:48:53 INFO  Keywords:138 - Opening URL: https://www.freecharge.in/
+2017-03-08 22:49:37 INFO  HomePageTestCases:64 - Initiating Recharge
+2017-03-08 22:49:37 INFO  Home:87 - Entering Phone Number for Recharge
+2017-03-08 22:49:37 INFO  Keywords:259 - Entering text is 9891234567
+2017-03-08 22:49:38 INFO  Home:104 - Verifying the default option postpaid/prepaid
+2017-03-08 22:49:38 INFO  Keywords:585 - Verifying the radio button 
+2017-03-08 22:49:38 INFO  Home:119 - Verifying the default operator
+2017-03-08 22:49:38 INFO  Keywords:626 - Verifying Selected value 
+2017-03-08 22:49:41 INFO  Keywords:635 - Actual value is: Idea
+2017-03-08 22:49:41 INFO  Keywords:636 - Expected value is: Idea
+2017-03-08 22:49:41 INFO  Home:179 - Verifying number of operators
+2017-03-08 22:49:41 INFO  Keywords:655 - Verifying number of items in the dropdown 
+2017-03-08 22:49:41 INFO  Keywords:659 - Actual value is: 19
+2017-03-08 22:49:41 INFO  Keywords:660 - Expected value is: 19
+2017-03-08 22:49:41 INFO  Home:134 - Selecting an operator
+2017-03-08 22:49:41 INFO  Keywords:608 - Selecting value Idea
+2017-03-08 22:49:42 INFO  Home:150 - Clicking on proceed button
+2017-03-08 22:49:42 INFO  Home:165 - Verifying the value of Price field
+2017-03-08 22:49:42 INFO  Keywords:280 - Verifying the text
+2017-03-08 22:49:42 INFO  Keywords:282 - Actual value is: 
+2017-03-08 22:49:42 INFO  Keywords:283 - Expected value is: 
+2017-03-08 22:49:42 INFO  Home:209 - Selecting effective plans
+2017-03-08 22:49:43 INFO  Keywords:280 - Verifying the text
+2017-03-08 22:49:43 INFO  Keywords:282 - Actual value is: LOGIN
+2017-03-08 22:49:43 INFO  Keywords:283 - Expected value is: Login
+2017-03-08 22:49:43 FATAL Keywords:289 - java.lang.Exception
+2017-03-08 22:49:43 INFO  HomePageTestCases:87 - Closing the browser
+2017-03-08 22:49:43 INFO  Keywords:366 - Closing the browser
+2017-03-18 13:22:33 INFO  AutomationPracticeSwitchWindowPage:32 - **********************Starting test cases *********************
+2017-03-18 13:22:33 INFO  Keywords:92 - Inside startBrowser Method
+2017-03-18 13:22:34 FATAL Keywords:123 - java.lang.NullPointerException
+2017-03-18 13:25:19 INFO  AutomationPracticeSwitchWindowPage:32 - **********************Starting test cases *********************
+2017-03-18 13:25:19 INFO  Keywords:92 - Inside startBrowser Method
+2017-03-18 13:25:19 FATAL Keywords:123 - java.lang.NullPointerException
+2017-03-18 13:30:09 INFO  AutomationPracticeSwitchWindowPage:32 - **********************Starting test cases *********************
+2017-03-18 13:30:09 INFO  Keywords:92 - Inside startBrowser Method
+2017-03-18 13:30:15 INFO  Keywords:106 - Starting Chrome browser
+2017-03-18 13:30:15 INFO  Keywords:135 - Inside navigateTo Method
+2017-03-18 13:30:16 INFO  Keywords:143 - Opening URL: http://www.toolsqa.com/automation-practice-switch-windows/
+2017-03-18 13:30:26 INFO  AutomationPracticeSwitchWindowPage:48 - Verifying brands
+2017-03-18 13:30:26 INFO  SwitchWindows:31 - Switching to 'QA Automation Tools Tutorial' Window
+2017-03-18 13:30:26 INFO  Keywords:682 - Switching to new window
+2017-03-18 13:30:30 INFO  SwitchWindows:44 - Verifying 'Selenium Online Trainings' text
+2017-03-18 13:30:30 INFO  Keywords:285 - Verifying the text
+2017-03-18 13:30:32 INFO  Keywords:287 - Actual value is: 
+2017-03-18 13:30:32 INFO  Keywords:288 - Expected value is: Selenium Online Trainings
+2017-03-18 13:30:32 FATAL Keywords:293 - java.lang.Exception
+2017-03-18 13:30:32 INFO  AutomationPracticeSwitchWindowPage:63 - Closing the browser
+2017-03-18 13:30:32 INFO  Keywords:369 - Closing the browser
+2017-03-18 13:31:57 INFO  AutomationPracticeSwitchWindowPage:32 - **********************Starting test cases *********************
+2017-03-18 13:31:57 INFO  Keywords:92 - Inside startBrowser Method
+2017-03-18 13:32:00 INFO  Keywords:106 - Starting Chrome browser
+2017-03-18 13:32:00 INFO  Keywords:135 - Inside navigateTo Method
+2017-03-18 13:32:02 INFO  Keywords:143 - Opening URL: http://www.toolsqa.com/automation-practice-switch-windows/
+2017-03-18 13:32:10 INFO  AutomationPracticeSwitchWindowPage:49 - Verifying brands
+2017-03-18 13:32:10 INFO  SwitchWindows:31 - Switching to 'QA Automation Tools Tutorial' Window
+2017-03-18 13:32:10 INFO  Keywords:682 - Switching to new window
+2017-03-18 13:32:15 INFO  SwitchWindows:44 - Verifying 'Selenium Online Trainings' text
+2017-03-18 13:32:15 INFO  Keywords:285 - Verifying the text
+2017-03-18 13:32:17 INFO  Keywords:287 - Actual value is: 
+2017-03-18 13:32:17 INFO  Keywords:288 - Expected value is: Selenium Online Trainings
+2017-03-18 13:32:17 FATAL Keywords:293 - java.lang.Exception
+2017-03-18 13:32:17 INFO  AutomationPracticeSwitchWindowPage:65 - Closing the browser
+2017-03-18 13:32:17 INFO  Keywords:369 - Closing the browser
+2017-03-18 13:36:12 INFO  AutomationPracticeSwitchWindowPage:32 - **********************Starting test cases *********************
+2017-03-18 13:36:12 INFO  Keywords:92 - Inside startBrowser Method
+2017-03-18 13:36:16 INFO  Keywords:106 - Starting Chrome browser
+2017-03-18 13:36:16 INFO  Keywords:135 - Inside navigateTo Method
+2017-03-18 13:36:17 INFO  Keywords:143 - Opening URL: http://www.toolsqa.com/automation-practice-switch-windows/
+2017-03-18 13:36:24 INFO  AutomationPracticeSwitchWindowPage:49 - Verifying brands
+2017-03-18 13:36:24 INFO  SwitchWindows:31 - Switching to 'QA Automation Tools Tutorial' Window
+2017-03-18 13:36:24 INFO  Keywords:682 - Switching to new window
+2017-03-18 13:36:28 INFO  SwitchWindows:44 - Verifying 'Selenium Online Trainings' text
+2017-03-18 13:36:34 INFO  Keywords:285 - Verifying the text
+2017-03-18 13:36:34 INFO  Keywords:287 - Actual value is: Selenium Online Trainings
+2017-03-18 13:36:34 INFO  Keywords:288 - Expected value is: Selenium Online Trainings
+2017-03-18 13:36:34 INFO  Keywords:304 - Capture the Screen shot
+2017-03-18 13:36:35 INFO  AutomationPracticeSwitchWindowPage:64 - Closing the browser
+2017-03-18 13:36:35 INFO  Keywords:369 - Closing the browser
+2017-03-18 18:20:25 INFO  AutomationPracticeSwitchWindowPage:34 - **********************Starting test cases *********************
+2017-03-18 18:20:25 INFO  Keywords:93 - Inside startBrowser Method
+2017-03-18 18:20:28 INFO  Keywords:107 - Starting Chrome browser
+2017-03-18 18:20:28 INFO  Keywords:136 - Inside navigateTo Method
+2017-03-18 18:20:29 INFO  Keywords:144 - Opening URL: http://www.toolsqa.com/automation-practice-switch-windows/
+2017-03-18 18:20:46 INFO  AutomationPracticeSwitchWindowPage:70 - Verify accept alert operation
+2017-03-18 18:20:46 INFO  TimingAlert:25 - Verifying accept timing alert operation
+2017-03-18 18:20:46 INFO  Keywords:719 - Accepting the timing alert
+2017-03-18 18:20:46 FATAL Keywords:723 - org.openqa.selenium.NoAlertPresentException: no alert open
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Gaurav', ip: '172.16.1.188', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\GAURAV~1\AppData\Local\Temp\scoped_dir6104_20053}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1a3ce8a440680a709f56827c4a3ca033
+2017-03-18 18:20:46 INFO  AutomationPracticeSwitchWindowPage:84 - Closing the browser
+2017-03-18 18:20:46 INFO  Keywords:370 - Closing the browser
+2017-03-18 18:26:19 INFO  AutomationPracticeSwitchWindowPage:34 - **********************Starting test cases *********************
+2017-03-18 18:26:19 INFO  Keywords:94 - Inside startBrowser Method
+2017-03-18 18:26:21 INFO  Keywords:108 - Starting Chrome browser
+2017-03-18 18:26:21 INFO  Keywords:137 - Inside navigateTo Method
+2017-03-18 18:26:23 INFO  Keywords:145 - Opening URL: http://www.toolsqa.com/automation-practice-switch-windows/
+2017-03-18 18:26:29 INFO  AutomationPracticeSwitchWindowPage:70 - Verify accept alert operation
+2017-03-18 18:26:29 INFO  TimingAlert:25 - Verifying accept timing alert operation
+2017-03-18 18:26:29 INFO  Keywords:718 - Accepting the timing alert
+2017-03-18 18:26:32 INFO  Keywords:721 - Alert Present.
+2017-03-18 18:26:32 INFO  Keywords:722 - Switching to alert...
+2017-03-18 18:26:32 INFO  Keywords:306 - Capture the Screen shot
+2017-03-18 18:26:32 INFO  AutomationPracticeSwitchWindowPage:84 - Closing the browser
+2017-03-18 18:26:32 INFO  Keywords:371 - Closing the browser
+2017-03-19 11:36:21 INFO  Drag:32 - **********************Starting test cases *********************
+2017-03-19 11:36:21 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 11:36:21 FATAL Keywords:100 - java.lang.NullPointerException
+2017-03-19 11:37:51 INFO  Drag:32 - **********************Starting test cases *********************
+2017-03-19 11:37:51 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 11:37:54 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 11:37:54 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 11:37:55 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 11:38:04 INFO  Drag:48 - Drag Intiated
+2017-03-19 11:38:04 INFO  Drag:56 - Closing the browser
+2017-03-19 11:38:04 INFO  Keywords:224 - Closing the browser
+2017-03-19 11:38:53 INFO  Drag:32 - **********************Starting test cases *********************
+2017-03-19 11:38:53 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 11:38:55 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 11:38:55 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 11:38:56 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 11:39:04 INFO  Drag:48 - Drag Intiated
+2017-03-19 11:39:04 INFO  Drag:57 - Closing the browser
+2017-03-19 11:39:04 INFO  Keywords:224 - Closing the browser
+2017-03-19 11:39:22 INFO  Drag:32 - **********************Starting test cases *********************
+2017-03-19 11:39:22 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 11:39:24 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 11:39:24 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 11:39:25 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 11:39:32 INFO  Drag:48 - Drag Intiated
+2017-03-19 11:43:51 INFO  Drag:32 - **********************Starting test cases *********************
+2017-03-19 11:43:51 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 11:43:54 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 11:43:54 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 11:43:55 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 11:44:06 INFO  Drag:48 - Drag Intiated
+2017-03-19 11:46:33 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 11:46:33 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 11:46:36 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 11:46:36 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 11:46:37 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 11:46:43 INFO  Drag:53 - Drag Intiated
+2017-03-19 11:46:43 INFO  Drag:55 - Dragging the webelement
+2017-03-19 11:49:38 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 11:49:38 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 11:49:41 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 11:49:41 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 11:49:42 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 11:49:50 INFO  Drag:53 - Drag Intiated
+2017-03-19 11:49:50 INFO  Drag:55 - Dragging the webelement
+2017-03-19 12:07:38 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 12:07:38 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 12:07:41 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 12:07:41 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 12:07:42 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 12:07:52 INFO  Drag:53 - Drag Intiated
+2017-03-19 12:12:02 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 12:12:02 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 12:12:04 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 12:12:04 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 12:12:06 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 23:35:36 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 23:35:36 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 23:35:36 FATAL Keywords:100 - java.lang.NullPointerException
+2017-03-19 23:37:17 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 23:37:17 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 23:37:25 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 23:37:25 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 23:37:27 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 23:38:36 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 23:38:36 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 23:38:40 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 23:38:40 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 23:38:41 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 23:38:49 INFO  Drag:54 - Drag Intiated
+2017-03-19 23:41:36 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 23:41:36 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 23:41:40 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 23:41:40 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 23:41:41 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 23:41:49 INFO  Drag:54 - Drag Intiated
+2017-03-19 23:41:49 INFO  Drag:63 - Closing the browser
+2017-03-19 23:41:49 INFO  Keywords:224 - Closing the browser
+2017-03-19 23:42:30 INFO  Drag:35 - **********************Starting test cases *********************
+2017-03-19 23:42:30 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-19 23:42:33 INFO  Keywords:83 - Starting Chrome browser
+2017-03-19 23:42:33 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-19 23:42:34 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-19 23:42:45 INFO  Drag:63 - Closing the browser
+2017-03-19 23:42:45 INFO  Keywords:224 - Closing the browser
+2017-03-20 00:06:15 INFO  Drag:36 - **********************Starting test cases *********************
+2017-03-20 00:06:15 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-20 00:06:23 INFO  Keywords:83 - Starting Chrome browser
+2017-03-20 00:06:23 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-20 00:06:24 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-20 00:06:33 INFO  Drag:55 - Drag Intiated
+2017-03-20 00:07:33 INFO  Drag:36 - **********************Starting test cases *********************
+2017-03-20 00:07:33 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-20 00:07:36 INFO  Keywords:83 - Starting Chrome browser
+2017-03-20 00:07:36 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-20 00:07:38 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-20 00:07:45 INFO  Drag:55 - Drag Intiated
+2017-03-20 00:31:58 INFO  Drag:36 - **********************Starting test cases *********************
+2017-03-20 00:31:58 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-20 00:32:01 INFO  Keywords:83 - Starting Chrome browser
+2017-03-20 00:32:01 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-20 00:32:02 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-20 00:32:09 INFO  Drag:55 - Drag Intiated
+2017-03-20 00:36:34 INFO  Drag:36 - **********************Starting test cases *********************
+2017-03-20 00:36:34 INFO  Keywords:69 - Inside startBrowser Method
+2017-03-20 00:36:37 INFO  Keywords:83 - Starting Chrome browser
+2017-03-20 00:36:37 INFO  Keywords:112 - Inside navigateTo Method
+2017-03-20 00:36:39 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-03-20 00:36:48 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:02:26 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:02:26 INFO  Keywords:69 - Inside startBrowser Method
+2017-04-29 22:02:38 INFO  Keywords:83 - Starting Chrome browser
+2017-04-29 22:02:38 INFO  Keywords:112 - Inside navigateTo Method
+2017-04-29 22:03:06 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:03:06 INFO  Keywords:69 - Inside startBrowser Method
+2017-04-29 22:03:18 INFO  Keywords:75 - Starting Firefox browser
+2017-04-29 22:03:18 INFO  Keywords:112 - Inside navigateTo Method
+2017-04-29 22:03:19 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:03:27 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:03:44 INFO  Drag:70 - Closing the browser
+2017-04-29 22:03:44 INFO  Keywords:224 - Closing the browser
+2017-04-29 22:04:54 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:04:54 INFO  Keywords:69 - Inside startBrowser Method
+2017-04-29 22:05:18 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:05:18 INFO  Keywords:69 - Inside startBrowser Method
+2017-04-29 22:05:26 INFO  Keywords:75 - Starting Firefox browser
+2017-04-29 22:05:26 INFO  Keywords:112 - Inside navigateTo Method
+2017-04-29 22:05:27 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:05:36 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:09:13 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:09:13 INFO  Keywords:69 - Inside startBrowser Method
+2017-04-29 22:09:25 INFO  Keywords:75 - Starting Firefox browser
+2017-04-29 22:09:25 INFO  Keywords:112 - Inside navigateTo Method
+2017-04-29 22:09:25 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:09:32 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:09:50 FATAL Drag:61 - org.openqa.selenium.WebDriverException: [JavaScript Error: "bot.getDocument(...) is undefined" {file: "file:///C:/Users/GAURAV~1/AppData/Local/Temp/anonymous8993790301820211155webdriver-profile/extensions/fxdriver@googlecode.com/components/synthetic-mouse.js" line: 9627}]'[JavaScript Error: "bot.getDocument(...) is undefined" {file: "file:///C:/Users/GAURAV~1/AppData/Local/Temp/anonymous8993790301820211155webdriver-profile/extensions/fxdriver@googlecode.com/components/synthetic-mouse.js" line: 9627}]' when calling method: [wdIMouse::down]
+Command duration or timeout: 17.62 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Gaurav', ip: '192.168.0.101', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=46.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b1402463-d417-4ba3-9722-4605fe58cfc5
+2017-04-29 22:23:18 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:23:18 INFO  Keywords:69 - Inside startBrowser Method
+2017-04-29 22:23:31 INFO  Keywords:75 - Starting Firefox browser
+2017-04-29 22:23:31 INFO  Keywords:112 - Inside navigateTo Method
+2017-04-29 22:23:32 INFO  Keywords:120 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:23:46 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:23:46 INFO  Drag:27 - Dragging by mouse
+2017-04-29 22:27:40 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:27:40 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-29 22:27:51 INFO  Keywords:78 - Starting Firefox browser
+2017-04-29 22:27:51 INFO  Keywords:115 - Inside navigateTo Method
+2017-04-29 22:27:51 INFO  Keywords:123 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:27:57 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:27:57 INFO  Drag:27 - Dragging by mouse
+2017-04-29 22:27:57 INFO  Keywords:231 - Dragging element by offset
+2017-04-29 22:28:56 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:28:56 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-29 22:29:08 INFO  Keywords:78 - Starting Firefox browser
+2017-04-29 22:29:08 INFO  Keywords:115 - Inside navigateTo Method
+2017-04-29 22:29:08 INFO  Keywords:123 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:29:15 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:29:15 INFO  Drag:27 - Dragging by mouse
+2017-04-29 22:29:15 INFO  Keywords:231 - Dragging element by offset
+2017-04-29 22:31:39 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:31:39 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-29 22:31:49 INFO  Keywords:78 - Starting Firefox browser
+2017-04-29 22:31:49 INFO  Keywords:115 - Inside navigateTo Method
+2017-04-29 22:31:49 INFO  Keywords:123 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:31:56 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:31:56 INFO  Drag:27 - Dragging by mouse
+2017-04-29 22:31:56 INFO  Keywords:231 - Dragging element by offset
+2017-04-29 22:32:04 INFO  Keywords:209 - Accepting the timing alert
+2017-04-29 22:32:04 INFO  Keywords:212 - Alert Present.
+2017-04-29 22:32:04 INFO  Keywords:213 - Switching to alert...
+2017-04-29 22:36:34 INFO  Drag:38 - **********************Starting test cases *********************
+2017-04-29 22:36:34 INFO  Keywords:72 - Inside startBrowser Method
+2017-04-29 22:36:44 INFO  Keywords:78 - Starting Firefox browser
+2017-04-29 22:36:44 INFO  Keywords:115 - Inside navigateTo Method
+2017-04-29 22:36:45 INFO  Keywords:123 - Opening URL: http://demoqa.com/draggable/
+2017-04-29 22:36:57 INFO  Drag:55 - Drag Intiated
+2017-04-29 22:36:57 INFO  Drag:28 - Dragging by mouse
+2017-04-29 22:36:57 INFO  Keywords:196 - Dragging element by offset
+2017-04-29 22:37:05 INFO  Keywords:174 - Accepting the timing alert
+2017-04-29 22:37:05 INFO  Keywords:177 - Alert Present.
+2017-04-29 22:37:05 INFO  Keywords:178 - Accepted the alert
+2017-04-29 22:37:05 INFO  Keywords:181 - Switching to alert...

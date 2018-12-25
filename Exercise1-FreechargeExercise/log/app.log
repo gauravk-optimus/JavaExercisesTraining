@@ -1,0 +1,76 @@
+2017-04-29 22:54:46 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-29 22:54:46 INFO  Keywords:78 - Inside startBrowser Method
+2017-04-29 22:54:58 INFO  Keywords:84 - Starting Firefox browser
+2017-04-29 22:54:58 INFO  Keywords:119 - Inside navigateTo Method
+2017-04-29 22:54:58 INFO  Keywords:127 - Opening URL: https://www.freecharge.in/
+2017-04-29 22:55:07 INFO  HomePageTestCases:58 - Initiating Recharge
+2017-04-29 22:55:07 INFO  Home:114 - Entering Phone Number for Recharge
+2017-04-29 22:55:07 INFO  Keywords:181 - Entering text is 9891234567
+2017-04-29 22:55:09 INFO  Home:136 - Verifying the default option postpaid/prepaid
+2017-04-29 22:55:09 INFO  Keywords:322 - Verifying the radio button 
+2017-04-29 22:55:10 INFO  Home:153 - Verifying the default operator
+2017-04-29 22:55:10 INFO  Keywords:365 - Verifying Selected value 
+2017-04-29 22:55:13 INFO  Keywords:374 - Actual value is: Idea
+2017-04-29 22:55:13 INFO  Keywords:375 - Expected value is: Idea
+2017-04-29 22:55:13 INFO  Home:222 - Verifying number of operators
+2017-04-29 22:55:13 INFO  Keywords:393 - Verifying number of items in the dropdown 
+2017-04-29 22:55:13 INFO  Keywords:397 - Actual value is: 17
+2017-04-29 22:55:13 INFO  Keywords:398 - Expected value is: 17
+2017-04-29 22:55:13 INFO  Home:172 - Selecting an operator
+2017-04-29 22:55:13 INFO  Keywords:347 - Selecting value Idea
+2017-04-29 22:55:14 INFO  Home:189 - Clicking on proceed button
+2017-04-29 22:55:15 INFO  Home:206 - Verifying the value of Price field
+2017-04-29 22:55:15 INFO  Keywords:261 - Verifying the text
+2017-04-29 22:55:16 INFO  Keywords:263 - Actual value is: 
+2017-04-29 22:55:16 INFO  Keywords:264 - Expected value is: 
+2017-04-29 22:55:16 INFO  Home:238 - Counting number of recommended plans
+2017-04-29 22:55:16 INFO  Keywords:203 - Verifying total number of Recommended Plans
+2017-04-29 22:55:16 INFO  Keywords:205 - Actual value is: 32
+2017-04-29 22:55:16 INFO  Keywords:206 - Expected value is: 40
+2017-04-29 22:55:16 INFO  Keywords:208 - Recommended Plans Count is not equal
+2017-04-29 22:55:16 FATAL Keywords:214 - java.lang.Exception
+2017-04-29 22:55:16 INFO  HomePageTestCases:89 - Closing the browser
+2017-04-29 22:55:16 INFO  Keywords:310 - Closing the browser
+2017-04-29 22:55:18 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-29 22:55:18 INFO  Keywords:78 - Inside startBrowser Method
+2017-04-29 22:55:32 INFO  Keywords:84 - Starting Firefox browser
+2017-04-29 22:55:32 INFO  Keywords:119 - Inside navigateTo Method
+2017-04-29 22:55:32 INFO  Keywords:127 - Opening URL: https://www.freecharge.in/
+2017-04-29 23:01:49 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-29 23:01:49 INFO  Keywords:78 - Inside startBrowser Method
+2017-04-29 23:02:00 INFO  Keywords:84 - Starting Firefox browser
+2017-04-29 23:02:00 INFO  Keywords:119 - Inside navigateTo Method
+2017-04-29 23:02:00 INFO  Keywords:127 - Opening URL: https://www.freecharge.in/
+2017-04-29 23:02:07 INFO  HomePageTestCases:58 - Initiating Recharge
+2017-04-29 23:02:07 INFO  Home:114 - Entering Phone Number for Recharge
+2017-04-29 23:02:07 INFO  Keywords:181 - Entering text is 9891234567
+2017-04-29 23:02:09 INFO  Home:136 - Verifying the default option postpaid/prepaid
+2017-04-29 23:02:09 INFO  Keywords:322 - Verifying the radio button 
+2017-04-29 23:02:10 INFO  Home:153 - Verifying the default operator
+2017-04-29 23:02:10 INFO  Keywords:365 - Verifying Selected value 
+2017-04-29 23:02:14 INFO  Keywords:374 - Actual value is: Idea
+2017-04-29 23:02:14 INFO  Keywords:375 - Expected value is: Idea
+2017-04-29 23:02:14 INFO  Home:222 - Verifying number of operators
+2017-04-29 23:02:14 INFO  Keywords:393 - Verifying number of items in the dropdown 
+2017-04-29 23:02:14 INFO  Keywords:397 - Actual value is: 17
+2017-04-29 23:02:14 INFO  Keywords:398 - Expected value is: 17
+2017-04-29 23:02:14 INFO  Home:172 - Selecting an operator
+2017-04-29 23:02:14 INFO  Keywords:347 - Selecting value Idea
+2017-04-29 23:02:14 INFO  Home:189 - Clicking on proceed button
+2017-04-29 23:02:15 INFO  Home:206 - Verifying the value of Price field
+2017-04-29 23:02:15 INFO  Keywords:261 - Verifying the text
+2017-04-29 23:02:16 INFO  Keywords:263 - Actual value is: 
+2017-04-29 23:02:16 INFO  Keywords:264 - Expected value is: 
+2017-04-29 23:02:16 INFO  Home:238 - Counting number of recommended plans
+2017-04-29 23:02:16 INFO  Keywords:203 - Verifying total number of Recommended Plans
+2017-04-29 23:02:16 INFO  Keywords:205 - Actual value is: 32
+2017-04-29 23:02:16 INFO  Keywords:206 - Expected value is: 40
+2017-04-29 23:02:16 INFO  Keywords:208 - Recommended Plans Count is not equal
+2017-04-29 23:02:16 FATAL Keywords:214 - java.lang.Exception
+2017-04-29 23:02:16 INFO  HomePageTestCases:89 - Closing the browser
+2017-04-29 23:02:16 INFO  Keywords:310 - Closing the browser
+2017-04-29 23:02:17 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-29 23:02:17 INFO  Keywords:78 - Inside startBrowser Method
+2017-04-29 23:02:26 INFO  Keywords:84 - Starting Firefox browser
+2017-04-29 23:02:26 INFO  Keywords:119 - Inside navigateTo Method
+2017-04-29 23:02:27 INFO  Keywords:127 - Opening URL: https://www.freecharge.in/

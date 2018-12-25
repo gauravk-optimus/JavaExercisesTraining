@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Freecharge Suite" duration-ms="23289" started-at="2017-04-29T14:10:48Z" finished-at="2017-04-29T14:11:11Z">
+    <groups>
+    </groups>
+    <test name="Profile Test" duration-ms="23289" started-at="2017-04-29T14:10:48Z" finished-at="2017-04-29T14:11:11Z">
+      <class name="com.Freecharge.testcases.HomePageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@343f4d3d]" name="initialSetUp" is-config="true" duration-ms="15303" started-at="2017-04-29T19:40:48Z" finished-at="2017-04-29T19:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="selectEffectivePlan(org.testng.ITestContext)[pri:1, instance:com.Freecharge.testcases.HomePageTestCases@343f4d3d]" name="selectEffectivePlan" duration-ms="7963" started-at="2017-04-29T19:41:03Z" description="User is able select effective plan" finished-at="2017-04-29T19:41:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@37d4349f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectEffectivePlan -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Freecharge.testcases.HomePageTestCases@343f4d3d]" name="afterSuite" is-config="true" duration-ms="2" started-at="2017-04-29T19:41:11Z" finished-at="2017-04-29T19:41:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Freecharge.testcases.HomePageTestCases -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- Freecharge Suite -->
+</testng-results>

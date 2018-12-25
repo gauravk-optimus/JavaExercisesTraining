@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [W3S Suite]">
+  <test name="Profile Test(failed)">
+    <classes>
+      <class name="com.w3s.testcases.W3sPageTestCases">
+        <methods>
+          <include name="initialSetUp"/>
+          <include name="verifyDropdownValue"/>
+        </methods>
+      </class> <!-- com.w3s.testcases.W3sPageTestCases -->
+    </classes>
+  </test> <!-- Profile Test(failed) -->
+</suite> <!-- Failed suite [W3S Suite] -->

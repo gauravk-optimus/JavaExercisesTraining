@@ -1,0 +1,28 @@
+2017-04-26 08:20:40 INFO  HomePageTestCases:31 - **********************Starting test cases *********************
+2017-04-26 08:20:40 INFO  Keywords:66 - Inside startBrowser Method
+2017-04-26 08:20:48 INFO  Keywords:72 - Starting Firefox browser
+2017-04-26 08:20:48 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-26 08:20:49 INFO  Keywords:116 - Opening URL: https://www.freecharge.in/
+2017-04-26 08:20:54 INFO  HomePageTestCases:47 - Initiating Recharge
+2017-04-26 08:20:54 INFO  Home:56 - Entering Random Phone Number for Recharge
+2017-04-26 08:20:54 INFO  Keywords:171 - Entering text is 9891
+2017-04-26 08:20:56 INFO  Keywords:174 - Text is entered
+2017-04-26 08:20:56 INFO  Keywords:195 - Entering random number
+2017-04-26 08:20:56 INFO  Keywords:204 - Random number is entered
+2017-04-26 08:20:56 INFO  Home:75 - Selecting an operator
+2017-04-26 08:20:56 INFO  Keywords:232 - Selecting random value
+2017-04-26 08:20:57 INFO  Keywords:239 - Randomly 14 is selected
+2017-04-26 08:20:57 INFO  Keywords:261 - Selecting value Idea
+2017-04-26 08:20:57 INFO  Keywords:263 - 6 is selected
+2017-04-26 08:20:57 INFO  Home:94 - Clicking on proceed button
+2017-04-26 08:20:58 INFO  Home:110 - Selecting random plans
+2017-04-26 08:20:58 INFO  Keywords:311 - Selecting random Element
+2017-04-26 08:20:59 INFO  Keywords:317 - Selected Value is 
+2017-04-26 08:20:59 INFO  Home:127 - Logining In
+2017-04-26 08:20:59 INFO  Keywords:171 - Entering text is 9891234567
+2017-04-26 08:21:00 INFO  Keywords:174 - Text is entered
+2017-04-26 08:21:00 INFO  Keywords:171 - Entering text is optimus
+2017-04-26 08:21:01 INFO  Keywords:174 - Text is entered
+2017-04-26 08:21:01 INFO  Home:132 - User is logged in
+2017-04-26 08:21:01 INFO  HomePageTestCases:60 - Closing the browser
+2017-04-26 08:21:01 INFO  Keywords:217 - Closing the browser

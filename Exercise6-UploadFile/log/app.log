@@ -1,0 +1,26 @@
+2017-04-26 08:40:03 INFO  W3sPageTestCases:31 - **********************Starting test cases *********************
+2017-04-26 08:40:03 INFO  Keywords:66 - Inside startBrowser Method
+2017-04-26 08:40:12 INFO  Keywords:72 - Starting Firefox browser
+2017-04-26 08:40:12 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-26 08:40:12 INFO  Keywords:116 - Opening URL: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_accept
+2017-04-26 08:40:17 INFO  W3sPageTestCases:45 - **********************Starting test cases *********************
+2017-04-26 08:40:17 INFO  W3s:27 - Verying uplaod operation
+2017-04-26 08:40:17 INFO  Keywords:230 - Switching to frame
+2017-04-26 08:40:18 INFO  Keywords:232 - Switched to iframe
+2017-04-26 08:40:18 INFO  Keywords:201 - Uploading the file
+2017-04-26 08:40:18 INFO  Keywords:203 - File updloaded
+2017-04-26 08:40:19 INFO  W3sPageTestCases:58 - Closing the browser
+2017-04-26 08:40:19 INFO  Keywords:217 - Closing the browser
+2017-04-26 08:51:28 INFO  W3sPageTestCases:31 - **********************Starting test cases *********************
+2017-04-26 08:51:28 INFO  Keywords:66 - Inside startBrowser Method
+2017-04-26 08:51:37 INFO  Keywords:72 - Starting Firefox browser
+2017-04-26 08:51:37 INFO  Keywords:108 - Inside navigateTo Method
+2017-04-26 08:51:37 INFO  Keywords:116 - Opening URL: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_accept
+2017-04-26 08:51:43 INFO  W3sPageTestCases:45 - **********************Starting test cases *********************
+2017-04-26 08:51:43 INFO  W3s:28 - Verying uplaod operation
+2017-04-26 08:51:43 INFO  Keywords:233 - Switching to frame
+2017-04-26 08:51:44 INFO  Keywords:235 - Switched to iframe
+2017-04-26 08:51:44 INFO  Keywords:203 - Uploading the file
+2017-04-26 08:51:44 INFO  Keywords:206 - File updloaded
+2017-04-26 08:51:45 INFO  W3sPageTestCases:58 - Closing the browser
+2017-04-26 08:51:45 INFO  Keywords:220 - Closing the browser

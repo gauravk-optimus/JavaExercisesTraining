@@ -1,0 +1,11 @@
+2017-04-26 09:06:18 INFO  DroppablePageTestCases:31 - **********************Starting test cases *********************
+2017-04-26 09:06:18 INFO  Keywords:56 - Inside startBrowser Method
+2017-04-26 09:06:26 INFO  Keywords:62 - Starting Firefox browser
+2017-04-26 09:06:26 INFO  Keywords:97 - Inside navigateTo Method
+2017-04-26 09:06:27 INFO  Keywords:105 - Opening URL: http://demoqa.com/droppable/
+2017-04-26 09:06:33 INFO  DroppablePageTestCases:48 - Initiating Recharge
+2017-04-26 09:06:33 INFO  Droppable:30 - Calling Drag n Drop keyword
+2017-04-26 09:06:33 INFO  Keywords:122 - Attempting to drag drop
+2017-04-26 09:06:36 INFO  Keywords:137 - Capture the Screen shot
+2017-04-26 09:06:37 INFO  DroppablePageTestCases:59 - Closing the browser
+2017-04-26 09:06:37 INFO  Keywords:167 - Closing the browser

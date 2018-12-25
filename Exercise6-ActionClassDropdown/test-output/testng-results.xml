@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ActionClassDropdown Suite" duration-ms="21365" started-at="2017-04-27T02:23:04Z" finished-at="2017-04-27T02:23:25Z">
+    <groups>
+    </groups>
+    <test name="Profile Test" duration-ms="21365" started-at="2017-04-27T02:23:04Z" finished-at="2017-04-27T02:23:25Z">
+      <class name="com.DropdownSelect.testcases.DropdownPageTestCases">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.DropdownSelect.testcases.DropdownPageTestCases@4883b407]" name="initialSetUp" is-config="true" duration-ms="14121" started-at="2017-04-27T07:53:04Z" finished-at="2017-04-27T07:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="rechargeInitiate(org.testng.ITestContext)[pri:1, instance:com.DropdownSelect.testcases.DropdownPageTestCases@4883b407]" name="rechargeInitiate" duration-ms="6487" started-at="2017-04-27T07:53:18Z" description="User is able select a value from dropdown" finished-at="2017-04-27T07:53:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@434a63ab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rechargeInitiate -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.DropdownSelect.testcases.DropdownPageTestCases@4883b407]" name="closeBrowser" is-config="true" duration-ms="741" started-at="2017-04-27T07:53:24Z" finished-at="2017-04-27T07:53:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.DropdownSelect.testcases.DropdownPageTestCases@4883b407]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-04-27T07:53:25Z" finished-at="2017-04-27T07:53:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.DropdownSelect.testcases.DropdownPageTestCases -->
+    </test> <!-- Profile Test -->
+  </suite> <!-- ActionClassDropdown Suite -->
+</testng-results>

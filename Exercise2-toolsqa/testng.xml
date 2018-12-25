@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="toolsqa Suite">
+<!--<listeners>
+		<listener class-name="com.toolsqa.utils.TestListener"></listener>
+			<listener class-name="com.toolsqa.utils.ExtentReporterNG"></listener>
+	</listeners> -->
+<test name="Switch Window Test">
+		<classes>
+			<class name="com.toolsqa.testcases.AutomationPracticeSwitchWindowPage">
+			</class>
+		</classes>
+</test>
+
+</suite>
